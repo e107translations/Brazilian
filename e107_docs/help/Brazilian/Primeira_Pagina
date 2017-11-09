@@ -1,0 +1,9 @@
+
+Q>	Para que serve esta seção?
+A>	Esta tela permite que você configure o que aparecerá na primeira página de seu site, por padrão ela está configurada para mostrar as notícias news.php.
+
+Q>	Quais outras páginas eu posso mostrar?
+A>	Qualquer uma.  Você pode clicar nas páginas atuais ou digitar um endereço para uma página que quer usar.
+
+Q>	Como eu configuro uma tela 'splashscreen'?
+A>	Digite um endereço para a página de 'splashscreen', então clique apenas em 'Splashscreen' (só tela de abertura).  A página será mostrada por 10 segundos antes de ser redirecionada para a página de notícias.

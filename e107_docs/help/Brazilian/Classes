@@ -1,0 +1,4 @@
+
+Q>	O que são essas Classes de Usuários que eu vejo?  Para que servem?
+A>	Classes de usuários são usadas para dar acesso restrito a certas áreas e funções no site.  Se você define uma classe, então adiciona usuários a ela, você poderá escolher em fazer coisas que estarão visíveis apenas a usuários daquela classe.
+Por exemplo, existe uma classe já criada por padrão quando você instala o e107 chamada PRIVATEFORUM (Fórum Privado). Adicionando usuários a esta classe irá criar um fórum que apenas os usuários dela estarão aptos a ver aquele fórum. Você pode restringir outras áreas e funções por classe, como ítens de notícias, links, downloads, etc.

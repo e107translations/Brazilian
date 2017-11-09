@@ -1,0 +1,6 @@
+
+Q>	Gostaria de deixar as pessoas enviarem arquivos (upload) para meu site, mas eu estou preocupado com a segurança...
+A>	Existem algumas coisas a fazer para melhorar a segurança.  A primeira é permitir o envio através de código binário, o arquivo enviado será guardado no banco de dados mysql e não poderá ser acessado por qualquer um para download.  Também, configure a lista de arquivos permitidos, se alguém tentar enviar um arquivo com extensão diferente das permitidas, o arquivo será deletado imediatamente do servidor.
+
+Q>	Tenho alguns arquivos enviados (upload) o que eu faço agora?
+A>	Você tem a opção de copiar o arquivo para a área de Downloads, para permitir a outras pessoas que façam download do arquivo, e poderá copiar a informação de upload para a seção de notícias, fazendo um anúncio do ítem.

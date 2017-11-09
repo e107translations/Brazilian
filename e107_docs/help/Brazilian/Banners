@@ -1,0 +1,18 @@
+
+Q>	Eu defini um novo banner na área de admin, mas ele não está sendo mostrado, por quê?
+A>	O tema que você está usando precisa ter o comando de mostrar um banner. Abra o theme.php na pasta do tema e veja se ele tem o comando {BANNER} ou {BANNER=nomedacampanha} na seção $HEADER.
+
+Q>	Como posso ter um tipo de banner em uma área e um outro diferente em outra área?
+A>	Você pode agrupar os banners por 'campanhas', e configurar o tema para mostrar banners de alguma campanha.  Por exemplo, se você tem duas campanhas, chamadas cam_1 e cam_2, coloque o comando {BANNER=cam1} na área do $HEADER do arquivo theme.php e será mostrado apenas os banners da cam_1, e colocando {BANNER=cam_2} em outra área irá mostrar apenas banners da campanha chamada cam_2. Colocando {BANNER} (sem nome de campanha) no seu theme.php irá mostrar banners randomicamente para todas as campanhas.
+
+Q>	Para que serve o login do cliente e a senha?
+A>	Você pode definir um login e uma senha para os clientes dos banners, então eles poderão acessar informações sobre como seus banners estão se saindo no seu site http://www.seusite.com.br/banner.php e digitando o nome e a senha deles.
+
+Q>	Como posso ter um banner em forma de 'torre' num ítem de menu?
+A>	Primeiro você precisa definir a campanha para os banners em forma de 'torre' (isso irá mantê-los separadamente dos banners em forma de barra horizontais)...
+	1. Vá na área de admin e clique em banners.
+	2. Entre com seu banner ou banners em forma de torre, certifique-se de usar um novo nome na campanha, por exemplo, 'torre'.
+	3. Agora vá na área de Menus, e ative o Banner_menu em uma de suas áreas de menu.
+	4. Clique em 'Configurar' no ítem de menu.
+	5. Digite um título (o padrão é 'Anunciantes'/'Advertisment'), e digite o nome da campanha que você definiu previamente.
+	6. Deixe sua área de admin e veja se o seu banner(s) em forma de torre estão aparecendo na área que você estabeleceu.

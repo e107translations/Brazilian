@@ -1,0 +1,9 @@
+
+Q>	Para que serve a seção 'Trocar links por'?
+A>	Você pode converter qualquer link digitado na janela de chat em outro texto ou imagem à sua escolha. Isto mantém sua janela de chat no tamanho adequado, evitando aqueles endereços muito extensos.  Para usar uma imagem, clique em 'trocar links' e na caixa abaixo digite &lt;img src='caminhoparasuaimagem' alt='' />, agora qualquer link digitado será trocado pela imagem digitada.
+
+Q>	Para que serve a quebra de palavra?
+A>	Se alguém digitar uma palavra muito longa na janela de chat ela poderá danificar o layout do site. Se você digitar 40 na janela de quebra de palavra (Wordrap), qualquer palavra além de 40 caracteres poderá ser quebrada, então a coluna não ficará tão larga.  Você talvez tenha que modificar este valor de acordo com o tema que estiver utilizando e da largura da coluna do chat.
+
+Q>	Meu site é para todas as idades e tem gente xingando na sala de chat, como posso parar isso?
+A>	Vá na tela de Preferências na área de admin e encontre as opções de Proteção.  Você poderá adicionar uma lista de palavras aqui que irão ser trocadas por uma palavra ou sentença à sua escolha, por exemplo: CENSURADO! Agora, todo palavrão encontrado no seu site será trocado por este texto que você digitou aqui.

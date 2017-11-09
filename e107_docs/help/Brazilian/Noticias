@@ -1,0 +1,12 @@
+
+Q>	Para que servem as categorias de notícias?
+A>	Você pode agrupar ítens de notícias dentro de categorias diferentes e isso irá mostrar um ícone diferente, se definido. Isso faz a navegação ficar mais fácil para os visitantes, que poderão encontrar o que os interessa mais facilmente.
+
+Q>	Para que serve a caixa de Notícia Estendida?
+A>	Você deve ter notado que os ítens de notícias são chamados em determinados sites, eles têm uma introdução pequena que traz um link para o artigo inteiro.  Você pode fazer isso digitando uma introdução/chamada na caixa de Corpo do artigo e o restante do artigo na caixa Estendida.
+
+Q>	Para que servem as caixas de ativação?
+A>	Você pode configurar a notícia para aparecer em uma data usando as caixas de ativação. Se você deixar em branco, a notícia irá aparecer imediatamente.
+
+Q>	Eu digitei uma notícia e apareceu 'Notícia adicionada à base de dados' isto significa que ela será mostrada na minha página de notícias?
+A>	Isto significa que o seu texto foi salvo no banco de dados.  Se a notícia que você postou estiver configurada para estar ativa, sim ela aparecerá na página de notícias.

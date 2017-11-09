@@ -1,0 +1,192 @@
+<?php
+/*
++---------------------------------------------------------------+
+|        e107 website system
+|        ../../e107_languages/Portuguese_Brazilian/admin/lan_image.php
+|        (Portuguese_Brazilian language file)
+|
+|        Tradução Português(Brasil) -> Comunidade e107Brasil.NET
+|        (http://www.e107brasil.net), 2007-2009
+|
+|        ©Steve Dunstan 2001-2002
+|        http://e107.org
+|        jalist@e107.org
+|
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
++---------------------------------------------------------------+
+*/
+define("LAN_IMA_M_01", "Biblioteca de Mídia");
+define("LAN_IMA_M_02", "Upload/Importação de Mídia");
+define("LAN_IMA_M_03", "Categorias de Mídia");
+define("LAN_IMA_M_04", "Criar Categoria");
+define("LAN_IMA_M_05", "Avatares");
+define("LAN_IMA_001", "Modificações não são permitidas.");
+define("LAN_IMA_002", "Não há memória suficiente para rotacionar.");
+define("LAN_IMA_003", "Rotacionada");
+define("LAN_IMA_004", "Redimensionada");
+define("LAN_IMA_O_001", "Imagens de notícias");
+define("LAN_IMA_O_002", "Notícias [img] bbcode");
+define("LAN_IMA_O_003", "Página [img] bbcode");
+define("LAN_IMA_O_004", "Featurebox imagens");
+define("LAN_IMA_O_005", "Featurebox [img] código bbcode");
+define("LAN_IMA_O_006", "bbcode [img]");
+define("IMALAN_1", "Ativar mostrar imagem");
+define("IMALAN_2", "Mostrar imagens, isto se aplicará a todo o site (comentários, área de Chat etc.) para imagens postadas com o bbcode [img]");
+define("IMALAN_3", "Método de redimensionamento");
+define("IMALAN_4", "Método usado para redimensionar imagens, ou biblioteca GD1/2 ou ImageMagick");
+define("IMALAN_5", "Caminho para o ImageMagick (se selecionado)");
+define("IMALAN_6", "Caminho completo para o utilitário de conversão ImageMagick");
+define("IMALAN_7", "Definições de Imagens");
+define("IMALAN_8", "Atualizar as Definições de Imagens");
+define("IMALAN_9", "Definições de imagens atualizadas");
+define("IMALAN_10", "Classe para postar imagens");
+define("IMALAN_11", "Restringir usuários que podem postar imagens (se selecionado acima)");
+define("IMALAN_12", "Desativar o método das imagens");
+define("IMALAN_13", "<u>O que fazer com as imagens postadas se a postagem for desativada</u>");
+define("IMALAN_14", "Mostrar a URL de origem da imagem");
+define("IMALAN_15", "Não mostrar nada");
+define("IMALAN_18", "Imagens enviadas");
+define("IMALAN_20", "Nada modificado");
+define("IMALAN_21", "Usada por");
+define("IMALAN_22", "Imagem não usada");
+define("IMALAN_23", "Avatar");
+define("IMALAN_24", "Foto");
+define("IMALAN_25", "Clique aqui para apagar as imagens não usadas");
+define("IMALAN_26", "imagem(s) apagada(s)");
+define("IMALAN_28", "apagada");
+define("IMALAN_29", "Sem imagens");
+define("IMALAN_36", "Validar o tamanho do avatar e o acesso");
+define("IMALAN_37", "Validação de avatar");
+define("IMALAN_38", "Largura máxima permitida");
+define("IMALAN_39", "Altura máxima permitida");
+define("IMALAN_40", "Muito largo");
+define("IMALAN_41", "Muito alto");
+define("IMALAN_42", "Não encontrado");
+define("IMALAN_45", "Não encontrado");
+define("IMALAN_46", "Muito largo");
+define("IMALAN_47", "Total de avatares enviados");
+define("IMALAN_48", "Total de avatares externos");
+define("IMALAN_49", "Usuários com avatares");
+define("IMALAN_50", "Total:");
+define("IMALAN_51", "Avatar para");
+define("IMALAN_52", "Caminho para a ImageMagick parece estar incorreto");
+define("IMALAN_53", "Caminho para ImageMagick parece estar correto, mas o arquivo convertido pode não ser válido");
+define("IMALAN_54", "Versão da GD instalada:");
+define("IMALAN_55", "Não instalada(o)");
+define("IMALAN_56", "Clicar para selecionar");
+define("IMALAN_57", "Imagem muito grande - clique para ver maior");
+define("IMALAN_62", "Razão");
+define("IMALAN_65", "Nada encontrado");
+define("IMALAN_66", "Nome de arquivo");
+define("IMALAN_68", "Fechar");
+define("IMALAN_69", "Pasta");
+define("IMALAN_70", "Pastas fora do sistema encontrada!");
+define("IMALAN_73", "Qualidade em miniatura");
+define("IMALAN_74", "Este conjunto tão baixo quanto possível antes de perda de qualidade é aparente. Max. 100");
+define("IMALAN_75", "Largura de Avatar");
+define("IMALAN_76", "Imagens de avatar vão ser restrita a estas dimensões (em pixels)");
+define("IMALAN_77", "Altura de Avatar");
+define("IMALAN_78", "Geral");
+define("IMALAN_79", "Dimensões de redimensionamento de imagem");
+define("IMALAN_80", "Ativação de marca d'água");
+define("IMALAN_81", "Todas as imagens com uma largura ou altura superior a este valor serão dado uma marca d'água durante o redimensionamento.");
+define("IMALAN_82", "Texto de marca d'água");
+define("IMALAN_83", "Texto de marca d'água opcional");
+define("IMALAN_84", "Fonte de marca d'água");
+define("IMALAN_85", "Fonte de marca d'água opcional. Carregar mais fontes TTF para a pasta /fonts em seu diretório do tema.");
+define("IMALAN_86", "Tamanho da marca d'água");
+define("IMALAN_87", "Tamanho da fonte em pts");
+define("IMALAN_88", "Posição de marca d'água");
+define("IMALAN_89", "Marca d'água");
+define("IMALAN_90", "Margem de marca d'água");
+define("IMALAN_91", "A distância que marca d'água será exibida da borda da imagem.");
+define("IMALAN_92", "Cor da marca d'água");
+define("IMALAN_93", "Cor da marca d'água, por exemplo. 000000");
+define("IMALAN_94", "Marca d'água-cor da sombra");
+define("IMALAN_95", "Sombra cor de marca d'água, por exemplo. FFFFFF");
+define("IMALAN_96", "Opacidade de marca d'água");
+define("IMALAN_97", "Digite um número entre 1 e 100");
+define("IMALAN_98", "Conta do YouTube padrão");
+define("IMALAN_99", "Usado pelo navegador Youtube Media-Manager. Digite o nome da conta. por exemplo. e107inc");
+define("IMALAN_100", "Mostrar vídeos relacionados");
+define("IMALAN_101", "Mostrar informações do vídeo");
+define("IMALAN_102", "Mostrar legendas fechado por padrão");
+define("IMALAN_103", "Usar a marca modesto");
+define("IMALAN_104", "Tornar o YouTube bbcode responsivos");
+define("IMALAN_105", "Redimensionar imagens durante a importação de mídia");
+define("IMALAN_106", "Deixe em branco para desabilitar");
+define("IMALAN_107", "Não gerado pelo caminho de upload de dados");
+define("IMALAN_108", "Não podia mover o arquivo de [x] [y]");
+define("IMALAN_109", "Não consegui obter o caminho");
+define("IMALAN_110", "Caminho");
+define("IMALAN_111", "Não conseguimos detectar mime-type([x]). Upload de contato falhou.");
+define("IMALAN_112", "Não poderia criar a pasta ([x]).");
+define("IMALAN_113", "Digitalização para novas mídias (imagens, vídeos, arquivos) na pasta:");
+define("IMALAN_114", "Nenhuma mídia Found! Por favor, fazer upload de alguns arquivos.");
+define("IMALAN_115", "Título (uso interno)");
+define("IMALAN_116", "Legenda (vista pelo público)");
+define("IMALAN_118", "Tipo de MIME");
+define("IMALAN_119", "Tamanho do arquivo");
+define("IMALAN_120", "Dimensões");
+define("IMALAN_121", "Visualizar");
+define("IMALAN_122", "[x] não pode ser renomeado. Verifique o arquivo permanente.");
+define("IMALAN_123", "Importação, na categoria:");
+define("IMALAN_124", "Importar arquivos selecionados");
+define("IMALAN_125", "Apagar arquivos selecionados");
+define("IMALAN_126", "Por favor, verifique pelo menos um arquivo.");
+define("IMALAN_127", "Não consegui informações sobre o arquivo de:");
+define("IMALAN_128", "Importação de mídia:");
+define("IMALAN_129", "Você está prestes a excluir [x] registros e <strong>Todos os arquivos correspondentes</strong>! Por favor, confirme para continuar!");
+define("IMALAN_130", "Página anterior");
+define("IMALAN_131", "Próxima página");
+define("IMALAN_132", "Tags/palavras-chave");
+define("IMALAN_133", "Inferior direito");
+define("IMALAN_134", "Inferior esquerdo");
+define("IMALAN_135", "Superior direito");
+define("IMALAN_136", "Superior esquerdo");
+define("IMALAN_137", "Centro");
+define("IMALAN_138", "Certo");
+define("IMALAN_139", "Esquerda");
+define("IMALAN_140", "Início");
+define("IMALAN_141", "Parte inferior");
+define("IMALAN_142", "Telha");
+define("IMALAN_143", "Imagem");
+define("IMALAN_144", "Arquivo");
+define("IMALAN_145", "Do seu computador");
+define("IMALAN_146", "Não há suporte a HTML5.");
+define("IMALAN_147", "De um local remoto");
+define("IMALAN_148", "URL da imagem/arquivo");
+define("IMALAN_149", "Iniciar o Upload");
+define("IMALAN_150", "Fazer upload de um arquivo");
+define("IMALAN_151", "Escolha da biblioteca");
+define("IMALAN_152", "Aparência");
+define("IMALAN_153", "Imagem em uso");
+define("IMALAN_154", "Não estiver em uso");
+define("IMALAN_155", "Pasta de pré-seleção de Avatar");
+define("IMALAN_156", "Excluir todas as imagens não utilizadas");
+define("IMALAN_157", "Fluxo de texto");
+define("IMALAN_158", "Margem esquerda");
+define("IMALAN_159", "Margem direita");
+define("IMALAN_160", "Margem do Topo");
+define("IMALAN_161", "Margem da Base");
+define("IMALAN_162", "Exibindo [x] - [y] de [z] imagens.");
+define("IMALAN_163", "Vídeo");
+define("IMALAN_164", "Ícones excluídos da mídia-Gerente");
+define("IMALAN_165", "Sem imagens");
+define("IMALAN_166", "Fazer upload de imagens ou arquivos");
+define("IMALAN_167", "Nenhum arquivo");
+define("IMALAN_168", "Clique no avatar para mudá-lo");
+define("IMALAN_169", "Sem avatares disponíveis");
+define("IMALAN_170", "Escolher este avatar");
+define("IMALAN_171", "Admin-somente aviso: A pasta");
+define("IMALAN_172", "está vazio. Fazer upload de algumas imagens de avatares padrão para esta pasta para que os usuários escolher avatares de.");
+define("IMALAN_173", "Nenhum proprietário de mídia encontrado.");
+define("IMALAN_174", "Pesquisa do YouTube requer uma chave de api v3 (gratuita). [br] Esta chave não é necessária, a menos que você deseja realizar uma pesquisa de palavra-chave, playlist ou canal. [br] Inserindo a URL do vídeo do Youtube diretamente na caixa acima ainda funcionará sem precisar ter uma chave de api. [br][x]");
+define("IMALAN_175", "Pesquisa Youtube. Cole aqui qualquer URL do YouTube para um vídeo específico/playlist/canal");
+define("IMALAN_176", "Houve um problema ao pegar o arquivo.");
+define("IMALAN_177", "Clique aqui para obter mais informações e para inserir a chave de API");
+define("IMALAN_178", "Pasta de avatares (selecionável pelo usuário)");
+define("IMALAN_179", "Pasta de avatares (privado)");
+define("IMALAN_180", "arquivo de 0 byte encontrado em:");
+define("IMALAN_181", "Por favor, remova antes de continuar.");

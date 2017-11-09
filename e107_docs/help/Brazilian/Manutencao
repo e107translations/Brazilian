@@ -1,0 +1,6 @@
+
+Q>	Para que serve esta seção?
+A>	Esta tela permite a você fazer seu site inacessível a visitantes, use-a quando estiver fazendo upgrades no site ou quando precisar fazer algumas mudanças e deixá-lo em manutenção.  Apenas o main admin poderá acessar o site no modo de manutenção, você saberá disso por uma mensagem que será mostrada em cada página.
+
+Q>	Ajude! Eu configurei para manutenção acidentalmente e fiz logout, como faço para acessar a área de admin e colocar meu site no ar novamente?
+A>	Vá até http://www.seusite.com.br/e107_admin.php/admin.php e faça login de lá!

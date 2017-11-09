@@ -1,0 +1,6 @@
+
+Q>	O que é uma categoria de download?
+A>	As categorias permitem agrupar os downloads em diferentes assuntos.
+
+Q>	Quero adicionar um download, mas o arquivo não aparece na lista, por quê?
+A>	Apenas arquivos da pasta e107_files/downloads aparecerão no menu dropdown. Copie o arquivo para dentro dessa pasta que ele aparecerá. O mesmo se aplica a imagens, que precisam estar em e107_files/downloadimages.

@@ -1,0 +1,9 @@
+
+Q>	Eu faço mudanças no meu site e não tenho erros de mysql, mas meu site não aparece.
+A>	Isso pode acontecer quando algum arquivo core (da instalação do e107) está corrompido. O core são as configurações e as variáveis do e107.  Para resetar o core, vá em http://www.seusite.com.br/e107_files/resetcore.php. Sempre faça backup de seu core (na tela de Banco de Dados) antes de aplicar mudanças, você poderá restaurar o backup do core se alguma coisa sair errado (de novo no resetcore.php).
+
+Q>	Eu esqueci a senha do main admin e agora? Como acesso a área de admin?
+A>	Por questões de segurança, é impossível resetar seu password sem você estar logado. Se você não tem seu password escrito num local seguro, então você deverá anotar agora, para que isso não ocorra novamente.  Você terá que resetar seu password manualmente, usando o phpMyAdmin ou outro gerenciador de mysql.  Vá na tabela de usuários, o main admin deve ser o usuário número 1.  Clique no botão editar e mude a senha para 4cb9c8a8048fd02294477fcb1a41191a, isso irá mudar o password para 'changeme'. Agora faça login e [b]mude seu password imediatamente[/b].
+
+Q>	Eu instalei um tema/plugin etc e agora meu site está 'inacessível', o que eu posso fazer?
+A>	Use resetcore.php (veja acima).

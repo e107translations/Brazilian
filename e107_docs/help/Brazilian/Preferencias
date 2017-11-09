@@ -1,0 +1,15 @@
+
+Q>	Como posso modificar temas?
+A>	Existe uma seção na página de Preferências que permite a você mudar o tema do site. Favor visualizar os temas antes de aplicar a modificação, pois há temas antigos que não são mais compatíveis e poderão deixar seu site sem usabilidade se você aplicar direto.
+
+Q>	O que é COPPA?
+A>	É uma lei de 1998 que protege as crianças (Children's Online Privacy Protection Act).  É uma regra universal que protege menores de 13 anos.  Isso garante que nenhuma informação de menores de 13 anos será usada pelo 'Operador' (p.e.: você) para propósitos que não sejam o de manutenção do site. Para mais informações, visite http://www.cdt.org/legislation/105th/privacy/coppa.html
+
+Q>	O que é a proteção de flood?
+A>	Ela previne que o seu site seja 'floodado'(diversas solicitações seguidas, ou postagens), por chamadas HTTP, que podem causar pane no seu site e deixá-lo inacessível.
+
+Q>	Posso usar Cookies ou Seções para fazer o tracking dos usuários?
+A>	Isto é uma escolha sua.  Se seu site vai trabalhar com cookies (padrão) então deixe como está.  Se você preferir trabalhar com seções php, use-a (um 'handler' de seção será utilizado pelo e107 para guardar as informações de acesso).
+
+Q>	Posso rodar meu site no modo padrão?
+A>	Se você está desenvolvendo um tema e está tendo problemas em renderizar seu site corretamente no Firefox/Mozilla e no IE, tente clicar nesta caixa.  IE irá rodar em modo padrão e irá usar corretamente o modelo de caixa de texto (box).

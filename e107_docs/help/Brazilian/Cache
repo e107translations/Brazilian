@@ -1,0 +1,9 @@
+
+Q>	Para que serve esta seção?
+A>	Serve para configurar o status do Cache.  Se estiver ligado, irá salvar certas áreas do seu site no seu banco de dados.  Isso irá reduzir chamadas ao banco de dados mysql, e aumentará a velocidade do seu site.
+
+Q>	Eu fiz algumas alterações no tema, mas ele não está sendo mostrado atualizado, isso é porque ele está no cache?
+A>	Muito provavelmente.  Quando você muda um tema, o cache é atualizado, mas se você edita o código do theme.php, o cache não é limpo.  Configure o cache para off até que você termine a edição.
+
+Q>	Posso salvar os arquivos do cache no meu disco rígido?
+A>	Sim. Apenas tenha certeza que seu diretório e107_files/cache tem permissão de escrita (chmod 777). E então clique na opção de ligar na página de cache.

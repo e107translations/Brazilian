@@ -1,0 +1,12 @@
+
+Q>	O que é BBCode?
+A>	Um BBCode é um atalho para uma tag HTML, por exemplo, digitando &#91;b] Eu sou um texto negrito! &#91;/b] em qualquer caixa de texto de admin, irá fazer com que o texto dentro de &#91;b] e &#91;/b] apareça em negrito, então [b]Eu sou um texto negrito![/b] irá aparecer na tela.
+
+Q>	Mas para que eles servem?
+A>	Eles economizam tempo ao digitar tags HTML. Você pode usar tags HTML normalmente em seu texto, mas usando BBCode irá aumentar a velocidade da digitação de seu texto.
+
+Q>	Quando eu clico em um botão de BBCode para aparecer um código, ele aparece no final de meu texto, não onde está o cursor, por quê?
+A>	Existe um bug no Internet Explorer que provoca isso. Você pode selecionar o texto e depois apertar no botão para evitar isso.
+
+Q>	Que BBCodes posso usar?
+A>	Passe o mouse sobre os botões do bbcode, você verá uma pequena explicação. Existem códigos para links  &#91;url] &#91;/url] e email &#91;email] &#91;/email], também pode continuar usanso tags HTML. Todo endereço web e endereço de email digitado será automaticamente convertido em links clicáveis (hyperlinks).
