@@ -8,7 +8,7 @@
 |        $URL: ../e107_plugins/gallery/languages/Brazilian/Brazilian_global.php $
 |        $Revision: 1.0 $
 |        $Id: 2015/02/15 21:00:57 $
-|        $Author: Barbara $
+|        $Author: Barbara - barbara.blog.br $
 +---------------------------------------------------------------+
 */
 define("LAN_PLUGIN_GALLERY_TITLE", "Galeria");

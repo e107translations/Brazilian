@@ -8,7 +8,7 @@
 |        $URL: ../e107_plugins/forum/languages/Portuguese/Portuguese_search.php $
 |        $Revision: 1.0 $
 |        $Id: 2015/02/18 21:46:15 $
-|        $Author: Barbara $
+|        $Author: Barbara - barbara.blog.br $
 +---------------------------------------------------------------+
 */
 

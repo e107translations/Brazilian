@@ -32,7 +32,7 @@ define("CHATBOX_L14", "Emoticons");
 define("CHATBOX_L15", "Postagem muito extensa, ou campo vazio enviado");
 define("CHATBOX_L17", "Postagem duplicada");
 define("CHATBOX_L18", "Moderar mensagens da Área de Chat");
-define("CHATBOX_L19", "Você poderá postar apenas a cada ".(FLOODPROTECT ? FLOODTIMEOUT : 'n/a')." segundos");
+define("CHATBOX_L19", "Você só pode postar uma vez a cada [x] segundos");
 define("CHATBOX_L20", "Área de Chat (todas as postagens)");
 define("CHATBOX_L22", "em");
 define("CHATBOX_L24", "Você não tem as permissões corretas para visualizar esta página.");

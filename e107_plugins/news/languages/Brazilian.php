@@ -18,5 +18,6 @@ define("LAN_NEWSCAT_MENU_TITLE", "Categorias de Notícias");
 define("LAN_NEWSLATEST_MENU_TITLE", "Últimas Notícias");
 
 
-?>define("LAN_NEWSARCHIVE_MENU_TITLE", "Arquivo de notícias");
 define("LAN_NEWSARCHIVE_MENU_TITLE", "Arquivo de notícias");
+
+?>

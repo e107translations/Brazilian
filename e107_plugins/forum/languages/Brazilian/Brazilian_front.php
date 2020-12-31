@@ -11,7 +11,6 @@
 |        $Author: Barbara $
 +---------------------------------------------------------------+
 */
-define("e_PAGETITLE", "Fórum");
 define("LAN_FORUM_0002", "Tópicos");
 define("LAN_FORUM_0003", "Respostas");
 define("LAN_FORUM_0004", "Última Postagem");
@@ -266,3 +265,4 @@ define("LAN_FORUM_8026", "Falha ao desconectar a linha");
 define("LAN_FORUM_8027", "Nenhuma ação selecionada");
 define("LAN_FORUM_8028", "Retornar");
 define("LAN_FORUM_8029", "Novo tópico criado!");
+define("LAN_FORUM_8030", "Não foi possível excluir a postagem (permissão de moderador necessária)");

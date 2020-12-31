@@ -35,6 +35,7 @@ define("FORLAN_56", "Número de postagens feitas a um tópico antes que ele seja
 define("FORLAN_57", "Postagens por página");
 define("FORLAN_58", "Número de postagens mostradas por página");
 define("FORLAN_60", "Isto irá deletar todos os tópicos que não tenham recebido uma resposta em um certo número de dias que você digitar.<br /><b>Cuidado ao usar esta função!</b>");
+define("FORLAN_63", "Fileiras de exibição");
 define("FORLAN_65", "Título do Fórum");
 define("FORLAN_66", "Não instalado");
 define("FORLAN_70", "Ativar o envio de anexos de arquivo/imagem");
@@ -109,10 +110,7 @@ define("FORLAN_184", "Permissão para criação de tópico");
 define("FORLAN_185", "Indica quem poderá criar novos tópicos");
 define("FORLAN_186", "Tópicos por página");
 define("FORLAN_187", "Número de tópicos mostrados por página");
-
-
-?>define("FORLAN_63", "Fileiras de exibição");
-define("FORLAN_189", "Clique no botão 'excluir' para excluir o relatório.<br><br>Clique no botão 'Exibir' para exibir o tópico/tópico");
+define("FORLAN_189", "Clique no botão 'excluir' para excluir o relatório. [br][br]Clique no botão 'Exibir' para exibir o tópico/tópico. [br][br]Para ser notificado de quaisquer novos relatórios, consulte as [configurações de notificação].");
 define("FORLAN_200", "Tópico de rastreamento");
 define("FORLAN_201", "Ativar este para que seus usuários possam localizar tópicos.");
 define("FORLAN_202", "Tópico de rastreamento de notificações por e-mail");
@@ -130,4 +128,10 @@ define("FORLAN_213", "Postar");
 define("FORLAN_214", "Deixe em branco para gerar automaticamente ele do título acima.");
 define("FORLAN_215", "Não instalado!");
 define("FORLAN_216", "(Novo pai)");
-define("FORLAN_63", "Fileiras de exibição");
+define("FORLAN_217", "Padrão do Sistema");
+define("FORLAN_218", "Área de Texto");
+define("FORLAN_219", "Editor de Texto (Rich Texto)");
+define("FORLAN_220", "Editor de postagem");
+define("FORLAN_221", "Qual editor deve ser usado para criar/editar postagens?");
+define("FORLAN_222", "Editor de resposta rápida");
+define("FORLAN_223", "Use apenas texto simples (bbcode ou html não permitido!)");

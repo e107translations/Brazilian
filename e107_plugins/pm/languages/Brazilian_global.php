@@ -18,7 +18,7 @@ define("LAN_PLUGIN_PM_URL_DEFAULT_LABEL", "Padrão");
 define("LAN_PLUGIN_PM_URL_DEFAULT_DESCR", "Padrão");
 
 
-?>define("LAN_PLUGIN_PM_INBOX", "Caixa de entrada");
+define("LAN_PLUGIN_PM_INBOX", "Caixa de entrada");
 define("LAN_PLUGIN_PM_OUTBOX", "Caixa de saída");
 define("LAN_PLUGIN_PM_NEW", "Enviar nova mensagem");
 define("LAN_PLUGIN_PM_TO", "Para");
@@ -30,3 +30,5 @@ define("LAN_PLUGIN_PM_DEL", "Excluir PM");
 define("LAN_PLUGIN_PM_ATTACHMENT", "Anexo");
 define("LAN_PLUGIN_PM_SIZE", "Tamanho");
 define("LAN_PLUGIN_PM_INBOX", "Caixa de entrada");
+
+?>

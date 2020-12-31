@@ -31,7 +31,6 @@ class language{
 	 */
 	protected $lanlist = null; // null is important!!!
 
-	// code / folder.
 	protected $list = array(
             "aa" => "Afar",
             "ab" => "Abkhazian",
@@ -49,9 +48,7 @@ class language{
             "bi" => "Bislama",
             "bo" => "Tibetan",
             "bs" => "Bosnian",
-
-			"br" => "Brazilian",
-
+            "br" => "Breton",
             "bg" => "Bulgarian",
             "my" => "Burmese",
             "ca" => "Catalan",
@@ -148,7 +145,6 @@ class language{
             "pi" => "Pali",
             "pl" => "Polish",
             "pt" => "Portuguese",
-
             "ps" => "Pushto",
             "qu" => "Quechua",
             "ro" => "Romanian",
@@ -200,11 +196,13 @@ class language{
             "yo" => "Yoruba",
             "za" => "Zhuang",
            // "zh" => "Chinese",
-            "zu" => "Zulu"
+            "zu" => "Zulu",
+            "br" => "Brazilian"
         );
 
 		protected $names = array(
 			"Arabic" 		=> "العربية",
+			"Brazilian"     => "Português do Brasil",
 			"Bengali"		=> "বাংলা",
 			"Bosnian"		=> "Bosanski",
 			"Bulgarian"		=> "Български",
@@ -234,7 +232,6 @@ class language{
 			"Norwegian"		=> "Norsk",
 			"Persian"	   	=> "فارسي",
 		    "Portuguese"	=> "Português",
-		    "Brazilian"     => "Português do Brasil",
 			"Polish"		=> "Polski",
 			"Romanian"		=> "Română",
 			"Russian"		=> "Pусский",
@@ -378,8 +375,6 @@ class language{
 	 */
 	function translate($lan, $array= array())
 	{
-		trigger_error('<b>'.__METHOD__.' is deprecated.</b> Use $tp->lanVars() instead.', E_USER_DEPRECATED); // NO LAN
-
 		foreach($array as $k=>$v)
 		{
 			$search[] = "[".$k."]";
@@ -526,14 +521,13 @@ class language{
 
 		if(defined('e_PAGE_LANGUAGE') && ($detect_language = $this->isValid(e_PAGE_LANGUAGE))) // page specific override.
 		{
-			$doNothing = '';
 			// Do nothing as $detect_language is set.
 		}
-		elseif(!empty($pref['multilanguage_subdomain']) && $this->isLangDomain(e_DOMAIN) && (defset('MULTILANG_SUBDOMAIN') !== false))
+		elseif(vartrue($pref['multilanguage_subdomain']) && $this->isLangDomain(e_DOMAIN) && (defset('MULTILANG_SUBDOMAIN') !== false))
 		{
 			$detect_language = (e_SUBDOMAIN) ? $this->isValid(e_SUBDOMAIN) : $pref['sitelanguage'];
 			// Done in session handler now, based on MULTILANG_SUBDOMAIN value
-			//ini_set("session.cookie_domain", ".".e_DOMAIN); // Must be before session_start()
+			//e107_ini_set("session.cookie_domain", ".".e_DOMAIN); // Must be before session_start()
 			$this->_cookie_domain = ".".e_DOMAIN;
 			define('MULTILANG_SUBDOMAIN',true);
 		}
@@ -549,16 +543,16 @@ class language{
 		}
 		elseif(isset($_GET['elan']) && ($detect_language = $this->isValid($_GET['elan']))) // eg: /index.php?elan=Spanish
 		{
-			$doNothing = '';// Do nothing
+			// Do nothing			
 		}
 		elseif(isset($_POST['setlanguage']) && ($detect_language = $this->isValid($_POST['sitelanguage'])))
 		{
-			$doNothing = '';// Do nothing
+			// Do nothing	
 		}
 		
 		elseif(isset($GLOBALS['elan']) && ($detect_language = $this->isValid($GLOBALS['elan'])))
 		{
-			$doNothing = '';// Do nothing
+			// Do nothing		
 		}
 		else
 		{
@@ -566,7 +560,7 @@ class language{
 		}
 		
 		// Done in session handler now
-		// ini_set("session.cookie_path", e_HTTP);
+		// e107_ini_set("session.cookie_path", e_HTTP);
 		
 		$this->detect = $detect_language;	
 		return $detect_language;

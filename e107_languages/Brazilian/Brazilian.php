@@ -9,7 +9,7 @@
  *  Brazilian language file - generic terms and system LAN
  *
  *  Tradução Português(Brasil) -> Comunidade e107Brasil.NET
- *  (http://www.e107brasil.net) Barbara Tostes barbara.blog.br
+ *  (http://www.e107brasil.net)
  *
 */
 setlocale(LC_ALL, 'pt_BR.UTF-8', 'pt_BR.utf8');

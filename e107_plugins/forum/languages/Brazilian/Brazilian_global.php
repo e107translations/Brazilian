@@ -22,5 +22,7 @@ define("FORUM_LAN_URL_REWRITE_LABEL", "SEF URLs do Fórum (EM DESENVOLVIMENTO)")
 define("FORUM_LAN_URL_REWRITE_DESCR", "Exemplos:<br />EM DESENVOLVIMENTO");
 
 
-?>define("LAN_PLUGIN_FORUM_LATESTPOSTS", "Posts mais recentes");
 define("LAN_PLUGIN_FORUM_LATESTPOSTS", "Posts mais recentes");
+define("LAN_PLUGIN_FORUM_LATESTPOSTS", "Posts mais recentes");
+
+?>

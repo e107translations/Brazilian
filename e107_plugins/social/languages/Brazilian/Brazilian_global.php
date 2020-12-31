@@ -9,7 +9,7 @@
 |        $Author: Barbara $
 +---------------------------------------------------------------+
 */
-
+define("LAN_SOCIAL_ADMIN_SUMM", "Adiciona Facebook, Twitter e outros widgets de mídia social ao e107.");
 define("LAN_PLUGIN_SOCIAL_DESCR", "Adiciona opções para substituir o mecanismo de comentário de e107 com o Facebook. Adicione o que Twitter feeds ao seu site. etc.");
 define("LAN_PLUGIN_SOCIAL_SIGNIN", "Cadastre-se em com:");
 define("LAN_PLUGIN_SOCIAL_XUP_SIGNUP", "Entrar com sua conta [x]");

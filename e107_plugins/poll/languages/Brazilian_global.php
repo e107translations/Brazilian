@@ -8,7 +8,7 @@
 |        $URL: ../e107_plugins/poll/languages/Portuguese_global.php $
 |        $Revision: 1.0 $
 |        $Id: 2015/02/15 02:02:44 $
-|        $Author: Barbara $
+|        $Author: Barbara - barbara.blog.br $
 +---------------------------------------------------------------+
 */
 

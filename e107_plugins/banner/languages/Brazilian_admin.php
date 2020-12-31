@@ -38,4 +38,4 @@ define("BNRLAN_48", "Todos selecionados campanhas (nenhum processamento de caixa
 define("BNRLAN_50", "local");
 define("BNRLAN_51", "Remoto");
 define("BNRLAN_HELP_01", "Bandeira de ajuda");
-define("BNRLAN_HELP_02", "Use este plugin para gerir publicidade no seu site.<br /><br />Ao criar um novo banner você pode criar um usuário e uma senha para o seu cliente fazer login e verificar o progresso da campanha.<br /><br />Você pode habilitar o menu de bandeira usando o Gerenciador do menu e executar outras configurações de lá.");
+define("BNRLAN_HELP_02", "Use este plugin para gerenciar a publicidade em seu site.[br][br]Ao criar um novo banner você pode criar um nome de usuário e uma senha para seu cliente fazer o login e verificar o andamento da campanha. [br] [br] Você pode habilitar o menu do banner usando o gerenciador de menu e realizar outras configurações a partir dele.");

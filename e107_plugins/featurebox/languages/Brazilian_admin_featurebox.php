@@ -11,7 +11,6 @@
 |        $Author: Barbara $
 +---------------------------------------------------------------+
 */
-
 define("FBLAN_08", "Mensagem de texto");
 define("FBLAN_12", "Modo");
 define("FBLAN_13", "Rotacionar mensagens randomicamente");
@@ -19,9 +18,7 @@ define("FBLAN_14", "Mostrar apenas esta mensagem");
 define("FBLAN_22", "Tipo de renderização");
 define("FBLAN_23", "No box do tema");
 define("FBLAN_24", "Plano");
-
-
-?>define("FBLAN_25", "Não existem featurebox itens atribuídos ao modelo [x].");
+define("FBLAN_25", "Não existem featurebox itens atribuídos ao modelo [x].");
 define("FBLAN_26", "Imagem/vídeo");
 define("FBLAN_27", "Link da imagem");
 define("FBLAN_28", "Categoria do Menu Featurebox");
@@ -30,4 +27,6 @@ define("FBLAN_30", "Modelo de categoria");
 define("FBLAN_31", "Aleatórios");
 define("FBLAN_32", "Parâmetros (opcionais)");
 define("FBLAN_33", "Parâmetros opcionais de Javascript (formato sujeito a alterações)");
-define("FBLAN_25", "Não existem featurebox itens atribuídos ao modelo [x].");
+define("FBLAN_34", "Não atribuído");
+define("FBLAN_35", "Carrossel");
+define("FBLAN_36", "Abas");

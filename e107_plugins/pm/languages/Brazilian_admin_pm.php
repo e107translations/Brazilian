@@ -1,11 +1,11 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website content management system Portuguese Language File
+|        e107 website content management system Brazilian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |
-|        $URL: ../e107_plugins/pm/languages/Portuguese_admin_pm.php $
+|        $URL: ../e107_plugins/pm/languages/Brazilian_admin_pm.php $
 |        $Revision: 1.0 $
 |        $Id: 2015/02/28 20:02:52 $
 |        $Author: Barbara $

@@ -8,7 +8,7 @@
 |        $URL: ../e107_plugins/import/languages/Portuguese_global.php $
 |        $Revision: 1.0 $
 |        $Id: 2015/02/21 21:24:46 $
-|        $Author: Barbara $
+|        $Author: Barbara - barbara.blog.br $
 +---------------------------------------------------------------+
 */
 

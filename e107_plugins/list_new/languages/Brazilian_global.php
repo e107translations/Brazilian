@@ -11,9 +11,5 @@
 |        $Author: Barbara $
 +---------------------------------------------------------------+
 */
-
-define("LAN_PLUGIN_LISTNEW_NAME", "Listar Novos Itens");
-define("LAN_PLUGIN_LISTNEW_DESCRIPTION", "Este plugin permite a você ver uma lista e/ou menu com adições recentes em todas as categorias do site e107. Você pode ver também a lista de dados desde a sua última visita ou ver uma lista geral de adições.");
-
-
-?>
+define("LAN_PLUGIN_LIST_NEW_NAME", "Lista de Novos Itens");
+define("LAN_PLUGIN_LIST_NEW_DESCRIPTION", "Este plugin permite que você visualize uma lista e/ou menu de adições recentes em todas as categorias do e107. Você pode visualizar a lista com os dados desde sua última visita ou visualizar uma lista geral de adições mais recentes.");
