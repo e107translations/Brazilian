@@ -17,6 +17,7 @@
 +---------------------------------------------------------------+
 */
 define("PAGE_NAME", "Erro");
+define("LAN_ERROR_TITLE", "Opa!");
 define("LAN_ERROR_1", "Erro 401 - Permissão Negada");
 define("LAN_ERROR_2", "Você não tem permissão para acessar esta URL ou link requerido.");
 define("LAN_ERROR_3", "Favor informar ao administrador do site sobre o erro que está aparecendo nesta página se você acha que ela está sendo mostrada por engano.");
@@ -61,8 +62,8 @@ define("LAN_ERROR_42", "Informação adicional do erro:");
 define("LAN_ERROR_43", "Site indisponível temporariamente");
 define("LAN_ERROR_44", "Logo do site");
 define("LAN_ERROR_45", "O que você pode fazer agora?");
-
-
 define("LAN_ERROR_46", "Verifique o log para obter detalhes.");
-
-define("LAN_ERROR_TITLE", "Opa!");
+define("LAN_ERROR_47", "Erro de validação: o título das notícias não pode estar vazio!");
+define("LAN_ERROR_48", "Erro de validação: o valor do URL SEF da Notícia é um campo obrigatório e não pode estar vazio!");
+define("LAN_ERROR_49", "Erro de validação: o SEF URL da Notícia é um campo único - valor atual já em uso! Escolha outro valor de URL SEF.");
+define("LAN_ERROR_50", "Erro de validação: a categoria de notícias não pode estar vazia!");

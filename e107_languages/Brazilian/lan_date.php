@@ -35,4 +35,7 @@ define("LANDT_08s", "mins.");
 define("LANDT_09", "seg");
 define("LANDT_09s", "segs");
 define("LANDT_AGO", "atrás");
-define("LANDT_10", "Só agora");
+define("LANDT_IN", "em");
+define("LANDT_10", "Agora mesmo");
+define("LANDT_XAGO", "[x] atrás");
+define("LANDT_INX", "em [x]");

@@ -118,3 +118,5 @@ define("LANINS_141", "Por favor, preencha o formulário abaixo com seus dados de
 define("LANINS_142", "IMPORTANTE: Por favor, renomeie e107.htaccess para. htaccess");
 define("LANINS_144", "IMPORTANTE: Por favor copie e cole o conteúdo da [b]e107.htaccess[/b] em seu arquivo. htaccess [/ b] [b]. Por favor, tome cuidado para não substituir quaisquer dados existentes que podem ser nele.");
 define("LANINS_145", "e107 v2. x requer PHP [x] ser instalado. Por favor, entre em contato com seu anfitrião ou ler as informações em [y] antes de continuar.");
+define("LANINS_146", "Skin da Área Administrativa");
+define("LANINS_147", "Administração");

@@ -1,17 +1,9 @@
 <?php
 /*
-+---------------------------------------------------------------+
-|        e107 website system
-|        ../../e107_languages/Portuguese_Brazilian/lan_newspost.php
-|        (Portuguese_Brazilian language file)
-|
-|        Tradução Português(Brasil) -> Comunidade e107Brasil.NET
-|        (http://www.e107brasil.net), 2007-2009
-|
-|        ©Steve Dunstan 2001-2002
+|Traducao para Portugues do Brasil Dez/2020 - Brazilian
+|Autora: Barbara Tostes - barbaratostes@gmail.com
+|WebSite: https://www.barbara.blog.br
 |        http://e107.org
-|        jalist@e107.org
-|
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 +---------------------------------------------------------------+

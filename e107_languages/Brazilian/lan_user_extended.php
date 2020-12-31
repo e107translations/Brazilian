@@ -26,6 +26,7 @@ define("UE_LAN_8", "Linguagem");
 define("UE_LAN_9", "Nome");
 define("UE_LAN_10", "Tipo");
 define("UE_LAN_13", "País");
+define("UE_LAN_14", "Área de formatação de texto - Rich Textarea (WYSIWYG)");
 define("UE_LAN_21", "Nome");
 define("UE_LAN_22", "Tipo");
 define("UE_LAN_23", "Usar");

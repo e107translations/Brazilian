@@ -1,26 +1,22 @@
 <?php
 /*
-+---------------------------------------------------------------+
-|        e107 website system
-|        ../../e107_languages/Portuguese_Brazilian/lan_request.php
-|        (Portuguese_Brazilian language file)
++ ----------------------------------------------------------------------------+
+|     e107 website system - Brazilian Language File.
 |
-|        Tradução Português(Brasil) -> Comunidade e107Brasil.net
-|        (http://www.e107brasil.net), 2005-2006
-|
-|        ©Steve Dunstan 2001-2002
+|     $URL$ e107_languages/Brazilian/lan_prefs.php
+|     $Revision$ 2020/12/31
+|     $Id$ bybinhabr
+|     $Author$ Barbara Tostes - barbara.blog.br
 |        http://e107.org
-|        jalist@e107.org
-|
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-+---------------------------------------------------------------+
++----------------------------------------------------------------------------+
 */
 define("LAN_dl_61", "Erro de Download");
-define("LAN_dl_62", "Você foi impedido de baixar este arquivo, você excedeu sua quota de download");
-define("LAN_dl_63", "Você não tem as permissões corretas para baixar este arquivo.");
+define("LAN_dl_62", "VocÃª foi impedido de baixar este arquivo, vocÃª excedeu sua quota de download");
+define("LAN_dl_63", "VocÃª nÃ£o tem as permissÃµes corretas para baixar este arquivo.");
 define("LAN_dl_64", "Voltar");
-define("LAN_dl_65", "Arquivo Não Encontrado");
+define("LAN_dl_65", "Arquivo NÃ£o Encontrado");
 
 
 ?>

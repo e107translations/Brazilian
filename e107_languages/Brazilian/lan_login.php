@@ -50,4 +50,6 @@ define("LAN_LOGIN_31", "Suas credenciais não puderam ser adicionadas ao sistema
 define("LAN_LOGIN_32", "Você está vendo esta mensagem, porque você está logado como administrador principal.");
 define("LAN_LOGIN_33", "[Retornar para a página inicial]");
 define("LAN_LOGIN_34", "Registo de usuário e/ou login está desativado no momento.");
-define("LAN_LOGIN_35", "[Ativar/Permitir]");
+define("LAN_LOGIN_35", "[Habilite-o]");
+define("LAN_LOGIN_36", "Os e-mails para [x] estão voltando. Por favor [verifique se seu endereço de e-mail está correto].");
+define("LAN_LOGIN_37", "Sua conta ainda não foi ativada por um Administrador do Site ainda.");

@@ -9,7 +9,7 @@
  *  Brazilian language file - generic terms and system LAN
  *
  *  Tradução Português(Brasil) -> Comunidade e107Brasil.NET
- *  (http://www.e107brasil.net)
+ *  (http://www.e107brasil.net) Barbara Tostes barbara.blog.br
  *
 */
 setlocale(LC_ALL, 'pt_BR.UTF-8', 'pt_BR.utf8');
@@ -87,6 +87,7 @@ define("LAN_IP", "Endereço IP");
 define("LAN_IP_ADDRESS", "Endereço IP");
 define("LAN_AUTHOR", "Autor");
 define("LAN_CATEGORY", "Categoria");
+define("LAN_CATEGORIES", "Categorias");
 define("LAN_GUEST", "Comentários");
 define("LAN_NEXT", "Na próxima");
 define("LAN_PREVIOUS", "Anterior");
@@ -106,6 +107,7 @@ define("LAN_FILES", "Arquivos");
 define("LAN_SIZE", "Tamanho");
 define("LAN_VERSION", "Versão");
 define("LAN_DOWNLOAD", "Baixar");
+define("LAN_DOWNLOAD_NO_PERMISSION", "Arquivo não encontrado ou você não tem permissão para baixar este arquivo!");
 define("LAN_WEBSITE", "Web site");
 define("LAN_COMMENTS", "Comentários");
 define("LAN_LOCATION", "Localização");
@@ -119,9 +121,12 @@ define("LAN_USER", "Usuário");
 define("LAN_EMAIL", "Endereço de e-mail");
 define("LAN_WROTE", "escreveu");
 define("LAN_RE_ORDER", "Reordenar");
-define("LAN_RELATED", "Relacionados");
+define("LAN_RELATED", "Outras Postagens");
 define("LAN_CLOSE", "Fechar");
 define("LAN_EXPAND", "Expandir");
+define("LAN_LIST", "Lista");
+define("LAN_DATESTAMP", "Data");
+define("LAN_SUBJECT", "Assunto");
 define("LAN_ENTER_USRNAME_EMAIL", "Por favor, digite seu nome de usuário ou e-mail");
 define("LAN_PWD_REQUIRED", "Senha é necessária");
 define("LAN_SHOW", "programa");
@@ -130,3 +135,5 @@ define("LAN_SUMMARY", "Resumo");
 define("LAN_REQUIRED_BLANK", "Campos obrigatórios foram deixados em branco.");
 define("LAN_PLEASEWAIT", "Aguarde");
 define("LAN_CHOOSE_FILE", "Escolha um arquivo");
+define("LAN_REQUIRED", "Requerido");
+define("LAN_DEVELOPERMODE_CHECK", "[b]Modo de desenvolvedor está ativado no momento. Use este modo apenas ao desenvolver! [/b] [br]Favor desativar o modo de desenvolvedor ao usar seu site em produção ao vivo. Quando o modo de desenvolvedor está habilitado, informações confidenciais podem ser mostradas ao público!");

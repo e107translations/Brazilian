@@ -17,8 +17,8 @@
 +---------------------------------------------------------------+
 */
 define("PAGE_NAME", "Mensagens de Usuários");
-define("UP_LAN_0", "Todas Postagens de Fórum por ");
-define("UP_LAN_1", "Todos Comentários por ");
+define("UP_LAN_0", "Todas as postagens do fórum de [x]");
+define("UP_LAN_1", "Todos os comentários de [x]");
 define("UP_LAN_2", "Assunto");
 define("UP_LAN_3", "Visualizações");
 define("UP_LAN_4", "Respostas");
@@ -26,13 +26,10 @@ define("UP_LAN_5", "Última Postagem");
 define("UP_LAN_6", "Assuntos");
 define("UP_LAN_7", "Sem Comentários");
 define("UP_LAN_8", "Sem Postagens");
-define("UP_LAN_9", " enviado em ");
+define("UP_LAN_9", "enviado em");
 define("UP_LAN_10", "De");
 define("UP_LAN_11", "Postado em:");
 define("UP_LAN_12", "Procura");
-// define("UP_LAN_13", "Comentários");
 define("UP_LAN_14", "Postagens do Fórum");
 define("UP_LAN_15", "De");
 define("UP_LAN_16", "Endereço IP");
-
-

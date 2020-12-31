@@ -70,3 +70,14 @@ define("LANHELP_51", "Desativar o HTML para novas linhas de texto: [nobr]texto[/
 define("LANHELP_52", "Nova linha (HTML): [br]");
 define("LANHELP_53", "Justificar o alinhamento: \n[justify]Este texto ficará justificado[/justify]");
 define("LANHELP_54", "Bloco HTML (tag div): [block]Seu conteúdo[/block]");
+define("LANHELP_55", "Formato");
+define("LANHELP_56", "Inserir uma tabela");
+define("LANHELP_57", "Título");
+define("LANHELP_58", "Bloco");
+define("LANHELP_59", "Citar");
+define("LANHELP_60", "Bloco de Código");
+define("LANHELP_61", "Código em linha");
+define("LANHELP_62", "Parágrafo");
+define("LANHELP_63", "Insira uma imagem do Gerenciador de Mídia");
+define("LANHELP_64", "Insira um arquivo do Gerenciador de Mídia");
+define("LANHELP_65", "Tamanho");
