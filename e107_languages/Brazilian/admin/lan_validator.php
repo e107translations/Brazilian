@@ -1,14 +1,14 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website content management system Portuguese Language File
+|        e107 website content management system Brazilian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |
-|        $URL: ../e107_languages/Portuguese/admin/lan_validator.php $
+|        $URL: ../e107_languages/Brazilian/admin/lan_validator.php $
 |        $Revision: 1.0 $
 |        $Id: 2015/02/21 21:06:40 $
-|        $Author: Barbara $
+|        $Author: Barbara - barbara.blog.br $
 +---------------------------------------------------------------+
 */
 

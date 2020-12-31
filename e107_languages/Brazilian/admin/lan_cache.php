@@ -3,7 +3,7 @@
 +---------------------------------------------------------------+
 |        e107 website system
 |        ../../e107_languages/Portuguese_Brazilian/admin/lan_cache.php
-|        (Portuguese_Brazilian language file)
+|        (Brazilian language file)
 |
 |        Tradução Português(Brasil) -> Comunidade e107Brasil.NET
 |        (http://www.e107brasil.net), 2007-2009
@@ -40,7 +40,7 @@ define("CACLAN_26", "Esvaziar Todos os Caches");
 define("CACLAN_27", "Esvaziar o Cache do Browser");
 
 
-?>define("CACLAN_28", "Cache CSS/JS");
+define("CACLAN_28", "Cache CSS/JS");
 define("CACLAN_29", "Consolidar e armazenar em cache arquivos javascript e cascading stylesheet arquivos.");
 define("CACLAN_30", "Cache CSS/JS vazio");
 define("CACLAN_28", "Cache CSS/JS");

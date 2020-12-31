@@ -36,7 +36,7 @@ define("NF_LAN_1", "Eventos de arquivo");
 define("NF_LAN_2", "Arquivo enviado pelo usuário");
 
 
-?>define("NA_LAN_1", "Administrador atualiza sua senha");
+define("NA_LAN_1", "Administrador atualiza sua senha");
 define("NA_LAN_2", "Administrador cria um novo usuário");
 define("NA_LAN_3", "Administrador ativa um novo usuário");
 define("NU_LAN_6", "Login de usuário social");

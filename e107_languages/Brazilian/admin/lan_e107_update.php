@@ -53,3 +53,4 @@ define("LAN_UPDATE_56", "Atualização do Sistema");
 define("LAN_UPDATE_57", "Antes de continuar, por favor, exclua manualmente as seguintes pastas desatualizadas do seu sistema:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Atualizações de Plugins");
 define("LAN_UPDATE_CAPTION_CORE", "Atualizações no Core");
+define("LAN_UPDATE_58", "É altamente recomendável que você execute o [Inspetor de Arquivos] depois de concluir todas as atualizações, a fim de detectar quaisquer arquivos desatualizados que precisam ser removidos.");

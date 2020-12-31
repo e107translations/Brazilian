@@ -1,14 +1,14 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website content management system Portuguese Language File
+|        e107 website content management system Brazilian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |
 |        $URL: ../e107_languages/Portuguese/admin/lan_eurl.php $
 |        $Revision: 1.0 $
 |        $Id: 2015/02/15 16:12:26 $
-|        $Author: Barbara $
+|        $Author: Barbara - barbara.blog.br $
 +---------------------------------------------------------------+
 */
 define("LAN_EURL_NAME", "Gerenciar URLs do Site");
@@ -88,7 +88,7 @@ define("LAN_EURL_CORE_INDEX", "Primeira Página");
 define("LAN_EURL_CORE_INDEX_INFO", "Primeira Página não pode ter um alias (pseudônimo).");
 
 
-?>define("LAN_EURL_SURL_UPD", "SEF URLs foram atualizados.");
+define("LAN_EURL_SURL_UPD", "SEF URLs foram atualizados.");
 define("LAN_EURL_SURL_NUPD", "SEF URLs não foram atualizadas.");
 define("LAN_EURL_MENU_PROFILES", "Perfis");
 define("LAN_EURL_REBUILD", "Reconstruir");

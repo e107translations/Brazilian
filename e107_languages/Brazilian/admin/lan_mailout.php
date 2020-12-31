@@ -6,7 +6,7 @@
 |        (Portuguese_Brazilian language file)
 |
 |        Tradução Português(Brasil) -> Comunidade e107Brasil.NET
-|        (http://www.e107brasil.net), 2007-2017
+|        (http://www.e107brasil.net), 2007-2009
 |
 |        ©Steve Dunstan 2001-2002
 |        http://e107.org
@@ -54,7 +54,6 @@ define("LAN_MAILOUT_36", "Deletar emails que retornam antes de checar");
 define("LAN_MAILOUT_37", "Proceder");
 define("LAN_MAILOUT_38", "Cancelar");
 define("LAN_MAILOUT_39", "Enviando Emails");
-define("LAN_MAILOUT_40", "Você precisa renomear o arquivo <b>e107.htaccess</b> para <b>.htaccess</b> em");
 define("LAN_MAILOUT_41", "antes de enviar email desta página.");
 define("LAN_MAILOUT_43", "Usuário");
 define("LAN_MAILOUT_44", "Login");
@@ -249,6 +248,7 @@ define("LAN_MAILOUT_254", "Ver email no template");
 define("LAN_MAILOUT_255", "Email com template, ID:");
 define("LAN_MAILOUT_256", "Retornar");
 define("LAN_MAILOUT_257", "Template gerado");
+define("LAN_MAILOUT_259", "Nenhuma 'fonte de endereço de e-mail' selecionada em Preferências");
 define("LAN_SEND", "Enviar");
 define("LAN_HOLD", "Segurar");
 define("LAN_MAILOUT_260", "Tipo de usuário");

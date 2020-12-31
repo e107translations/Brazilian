@@ -2,12 +2,12 @@
 /*
 +---------------------------------------------------------------+
 |        e107 website system
-|        ../../e107_languages/Portuguese_Brazilian/admin/lan_prefs.php
-|        (Portuguese_Brazilian language file)
+|        ../../e107_languages/Brazilian/admin/lan_prefs.php
+|        (Brazilian language file)
 |
 |        Tradução Português(Brasil) -> Comunidade e107Brasil.NET
 |        (http://www.e107brasil.net), 2007-2009
-|
+|        Barbara - barbara.blog.br
 |        ©Steve Dunstan 2001-2002
 |        http://e107.org
 |        jalist@e107.org
@@ -264,3 +264,9 @@ define("PRFLAN_273", "Tempo de vida em segundos. 0 = até que o navegador for fe
 define("PRFLAN_274", "Formulário de contato só será visível para este grupo de usuários.");
 define("PRFLAN_275", "Ver esta página usando https (SSL) para modificar esta opção");
 define("PRFLAN_276", "Padrão PHP (preferida)");
+define("PRFLAN_277", "Configurações de GDPR");
+define("PRFLAN_278", "URL para a Política de Privacidade");
+define("PRFLAN_279", "Verifique se o url existe! É melhor usar um url absoluto. Essa configuração será usada em todos os lugares que exigem consentimento do usuário (por exemplo, inscrição, formulário/menu de contato etc.).");
+define("PRFLAN_280", "URL para os termos e condições do site");
+define("PRFLAN_281", "Os 2 links acima são usados em várias páginas deste site (por exemplo, inscrição e formulário/menu de contato).\n Crie 2 páginas (se ainda não tiver feito) que contenham sua 'Política de Privacidade' e os 'Termos e condições' do site. \n Existem vários sites que podem gerar esses textos para você. \n Copie os urls desses sites nos campos acima (por exemplo, /pagina/privacy-policy ou /pagina/terms-and-conditions).\n Apenas certifique-se que as páginas e urls existem e estão funcionando!");
+define("PRFLAN_282", "Método de salvar sessão");

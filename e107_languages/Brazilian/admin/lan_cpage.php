@@ -2,8 +2,8 @@
 /*
 +---------------------------------------------------------------+
 |        e107 website system
-|        ../../e107_languages/Portuguese_Brazilian/admin/lan_cpage.php
-|        (Portuguese_Brazilian language file)
+|        ../../e107_languages/Brazilian/admin/lan_cpage.php
+|        (Brazilian language file)
 |
 |        Tradução Português(Brasil) -> Comunidade e107Brasil.NET
 |        (http://www.e107brasil.net), 2007-2009
@@ -16,21 +16,22 @@
 |        GNU General Public License (http://gnu.org).
 +---------------------------------------------------------------+
 */
+
+define("CUSLAN_1", "Visão geral");
+define("CUSLAN_2", "Título da página");
+define("CUSLAN_3", "Itens por página");
+define("CUSLAN_4", "Campos personalizados");
+define("CUSLAN_5", "(Novo livro)");
+
 define("CUSLAN_9", "Texto");
-define("CUSLAN_11", "Página Inicial");
-define("CUSLAN_12", "Criar Página");
-define("CUSLAN_29", "Lista páginas se não houver páginas selecionadas");
+define("CUSLAN_11", "Meta descrição");
+define("CUSLAN_12", "Criar Página/Menu");
+define("CUSLAN_29", "Listar páginas se não houver páginas selecionadas");
 define("CUSLAN_30", "Tempo para expirar o cookie <b>(em segundos)</b>");
 define("CUSLAN_31", "Criar Menu");
 define("CUSLAN_48", "Listagem de Páginas");
 define("CUSLAN_49", "Listagem de Menus");
 
-
-?>define("CUSLAN_1", "Visão geral");
-define("CUSLAN_2", "Título da página");
-define("CUSLAN_3", "Itens por página");
-define("CUSLAN_4", "Campos personalizados");
-define("CUSLAN_5", "(Novo livro)");
 define("CUSLAN_50", "Lista de livros/capítulos");
 define("CUSLAN_51", "Adicionar livro/capítulo");
 define("CUSLAN_52", "Livro");

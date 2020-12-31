@@ -1,7 +1,7 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website content management system Portuguese Language File
+|        e107 website content management system Brazilian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |
@@ -11,6 +11,9 @@
 |        $Author: Barbara $
 +---------------------------------------------------------------+
 */
+
+if (!defined("PAGE_NAME")) { define("PAGE_NAME", "Agendar tarefas"); }
+
 define("LAN_CRON_M_02", "Atualizar");
 define("LAN_CRON_2", "Função");
 define("LAN_CRON_3", "Tabela");
@@ -63,6 +66,8 @@ define("LAN_CRON_51", "Hora(s):");
 define("LAN_CRON_52", "Dia(s):");
 define("LAN_CRON_53", "Mês/Meses:");
 define("LAN_CRON_54", "Semana(s):");
+define("LAN_CRON_55", "Falha no backup do banco de dados");
+define("LAN_CRON_56", "Backup de banco de dados completo");
 define("LAN_CRON_60", "Ir para cPanel");
 define("LAN_CRON_61", "Gerar nova senha cron");
 define("LAN_CRON_62", "Executar função config [b][x][/b]");
@@ -74,3 +79,6 @@ Nota: É aconselhável não excluir trabalhos padrão. [br]");
 define("LAN_CRON_BACKUP", "Cópia/Backup");
 define("LAN_CRON_LOGGING", "Logs");
 define("LAN_CRON_RUNNING", "Em execução");
+define("LAN_CRON_65", "Atualizar repositório de tema no git");
+define("LAN_CRON_66", "Nenhum repositório git encontrado");
+define("LAN_CRON_67", "Nenhum repositório git encontrado na pasta do tema");
