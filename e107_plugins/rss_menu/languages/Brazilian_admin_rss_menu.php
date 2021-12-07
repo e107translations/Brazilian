@@ -65,5 +65,5 @@ define("RSS_LAN_ADMIN_27", "Desmarcar Tudo");
 define("RSS_LAN_ADMIN_31", "limites de entradas rss atualizados");
 define("RSS_LAN_ADMIN_33", "Mostrar imagem nos alimentadores de Notícias?");
 define("RSS_LAN_0", "rss");
-define("RSS_LAN_2", "@nospam.com");
-define("RSS_LAN_3", "noauthor@nospam.com");
+define("RSS_LAN_2", "@nospam.com ");
+define("RSS_LAN_3", "seumautor@nospam.com");

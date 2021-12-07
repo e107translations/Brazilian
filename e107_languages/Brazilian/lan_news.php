@@ -16,7 +16,6 @@
 |        GNU General Public License (http://gnu.org).
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Notícias");
 define("LAN_NEWS_1", "Notícias especificamente para membros somente");
 define("LAN_NEWS_2", "Não é permitido você ver esta notícia");
 define("LAN_NEWS_9", "O título somente é ajustado - <b>somente o título da notícia será mostrado</b><br />");
@@ -42,7 +41,7 @@ define("LAN_NEWS_87", "Notícias Recentes");
 define("LAN_NEWS_462", "Não há itens de notícia neste mês específico");
 define("LAN_NEWS_463", "Não existem notícias itens para a categoria especificada - por favor, volte em breve.");
 define("LAN_NEWS_464", "Nenhum item de notícias para o dia especificado");
-define("LAN_NEWS_100", "ligados");
+define("LAN_NEWS_300", "Ligado");
 define("LAN_NEWS_307", "Total de postagens nesta categoria:");
 define("LAN_NEWS_308", "Talvez você está procurando um dos itens de notícias abaixo?");
-define("LAN_NEWS_309", "Tag");
+define("LAN_NEWS_309", "Etiqueta (Tag)");

@@ -124,4 +124,5 @@ define("TPVLANHELP_02", "Veja as dicas de ferramentas (quando disponíveis) para
 define("TPVLANHELP_03", "Por padrão, o filtro de visibilidade mudará o layout do tema com base em uma correspondência parcial de URL.");
 define("TPVLANHELP_04", "Termine as linhas com um [b]![/b] para corresponder exatamente com o final da URL.");
 define("TPVLANHELP_05", "Finalize as linhas com um [[b]$[/b] para corresponder exatamente ao final do caminho do script.");
+define("TPVLANHELP_06", "Comece as linhas com [b]:[/b] para corresponder parcial ou totalmente a e107::route()");
 define("TPVLAN_97", "Este tema requer uma versão mais recente do e107.");

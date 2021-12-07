@@ -93,6 +93,7 @@ define("LAN_NEXT", "Na próxima");
 define("LAN_PREVIOUS", "Anterior");
 define("LAN_LOGIN", "Logar");
 define("LAN_LOGOUT", "Deslogar");
+define("LAN_VERIFY", "Verificar");
 define("LAN_SETTINGS", "Configurações");
 define("LAN_PASSWORD", "Senha");
 define("LAN_INCORRECT_PASSWORD", "Senha incorreta");

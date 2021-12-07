@@ -73,6 +73,7 @@ define("FR_LAN_26", "Alerta! Detectado uma Falha de Segurança!");
 define("FR_LAN_27", "Existem arquivos em seu servidor que são vulneráveis à ataques e precisam ser removidos imediatamente. -(exploits são códigos escritos para explorar uma falha de seguranca em sistemas para conseguir acesso, invadindo o sistema)");
 define("FR_LAN_28", "Arquivos inseguros conhecidos");
 define("FR_LAN_32", "Você precisa executar um scan primeiro!");
+define("FR_LAN_33", "Começar");
 define("FS_LAN_1", "Criar Snapshot");
 define("FS_LAN_2", "Caminho completo do diretório root para criar uma imagem");
 define("FS_LAN_3", "Criar um snapshot para o plugin: (seu plugin será listado quando um arquivo e_inspect.php com permissão de escrita existir na pasta root dos plugins.)");

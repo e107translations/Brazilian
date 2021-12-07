@@ -1,7 +1,7 @@
 <?php
 
 // define("EXAMPLE","Generated Empty Language File");define("LAN_SOCIAL_000", "Compartilhar no [x]");
-define("LAN_SOCIAL_001", "Como em [x]");
+define("LAN_SOCIAL_001", "Curtir no [x]");
 define("LAN_SOCIAL_002", "Enviar e-mail para alguém");
 define("LAN_SOCIAL_003", "+ 1 no Google");
 define("LAN_SOCIAL_004", "Adicionar a [x]");

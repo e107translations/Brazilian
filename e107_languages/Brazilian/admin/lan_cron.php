@@ -11,9 +11,6 @@
 |        $Author: Barbara $
 +---------------------------------------------------------------+
 */
-
-if (!defined("PAGE_NAME")) { define("PAGE_NAME", "Agendar tarefas"); }
-
 define("LAN_CRON_M_02", "Atualizar");
 define("LAN_CRON_2", "Função");
 define("LAN_CRON_3", "Tabela");
@@ -30,6 +27,7 @@ define("LAN_CRON_04_2", "Processar disparadores retornando.");
 define("LAN_CRON_04_3", "Necessário somente se os disparadores de banidos estiverem ativados.");
 define("LAN_CRON_05_1", "Backup do Banco de Dados");
 define("LAN_CRON_05_2", "Backup do banco de dados do sistema para");
+define("LAN_CRON_06_1", "Acionador de proibição de processo");
 define("LAN_CRON_6", "Não pode importar preferências");
 define("LAN_CRON_7", "Não pode importar configurações de sincronização");
 define("LAN_CRON_8", "Importar Configurações de sincronização para");

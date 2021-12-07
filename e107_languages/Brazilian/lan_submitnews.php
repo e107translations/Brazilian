@@ -30,7 +30,7 @@ define("NWSLAN_11", "Você não tem o acesso a esta área.");
 define("NWSLAN_12", "Acesso Negado.");
 define("SUBNEWSLAN_1", "Você deve incluir um título.\\n");
 define("SUBNEWSLAN_2", "Você deve incluir algum texto no artigo de notícia.\\n");
-define("SUBNEWSLAN_3", "Seu atachamento deve ser um arquivo jpg, gif ou png");
+define("SUBNEWSLAN_3", "Seu anexo deve ser um arquivo jpg, gif ou png");
 define("SUBNEWSLAN_4", "Arquivo extremamente grande");
 define("SUBNEWSLAN_5", "Arquivo de imagem");
 define("SUBNEWSLAN_6", "(jpg, gif ou png)");

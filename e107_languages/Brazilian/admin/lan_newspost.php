@@ -18,7 +18,6 @@
 */
 define("NWSLAN_4", "Notícias Existentes");
 define("NWSLAN_6", "Categoria");
-define("NWSLAN_10", "Não há categorias definidas ainda.");
 define("NWSLAN_13", "Corpo");
 define("NWSLAN_14", "Estendido");
 define("NWSLAN_18", "Permitir comentários para esta notícia");
@@ -92,14 +91,11 @@ define("NWSLAN_121", "Nada encontrado para %s");
 define("NWSLAN_123", "Postado");
 define("NWSLAN_127", "Template Padrão");
 define("NWSLAN_128", "Configurar uma string para ser usada na URL das páginas de notícias. Isto irá apenas funcionar corretamente se as regras do .htaccess e do <a href='%s'>eURL config</a><br />estiverem configuradas para resolver URL baseadas no valor atual:");
-define("LAN_NEWS_23", "Escolha a imagem de thumbnail / ícone para o item de notícia");
 define("LAN_NEWS_28", "Fixar");
 define("LAN_NEWS_29", "Selecione se o artigo de notícia será fixado");
 define("LAN_NEWS_30", "Se selecionado, o artigo de notícia aparecerá sobre todo os outros");
 define("LAN_NEWS_32", "Gravar data");
 define("LAN_NEWS_33", "Ajuste a gravação de data para o artigo da notícia atual.");
-define("LAN_NEWS_34", "TrackBack:");
-define("LAN_NEWS_35", "Adicionar url's de trackback");
 define("LAN_NEWS_37", "Uma URL por linha");
 define("LAN_NEWS_49", "Tipo de renderização");
 define("LAN_NEWS_51", "Modificações no autor do item de notícia podem ser feitas por:");
@@ -123,7 +119,6 @@ define("LAN_NEWS_72", "Barra lateral - Othernews");
 define("LAN_NEWS_73", "Barra lateral - Othernews 2");
 define("LAN_NEWS_74", "Carrossel");
 define("LAN_NEWS_75", "Caixa FeatureBox");
-define("LAN_NEWS_87", "por exemplo. blogsearch.google.com/ping/RPC2");
 define("LAN_NEWS_88", "Determina como a página de notícias padrão deve aparecer.");
 define("LAN_NEWS_89", "Notificar estes serviços quando você cria/atualizar itens de notícias.");
 define("LAN_NEWS_90", "Um por linha.");
@@ -148,3 +143,4 @@ define("LAN_NEWS_108", "O SEF URL é diferente do título de seu artigo de notí
 define("LAN_NEWS_109", "Desencadear uma notificação por e-mail quando você enviar este formulário.");
 define("LAN_NEWS_110", "Tempo limite de Cache de notícias");
 define("LAN_NEWS_111", "Tempo em minutos. Aplica-se somente quando o cache do sistema está ativado.");
+define("LAN_NEWS_112", "Selecione o formato da URL. Tanto a contagem de registros (por exemplo, page=20, page=40, page=60 etc.) ou o número da página (por exemplo, page=1, page=2, page=3 etc.). Aviso: se modificados, alguns URLs de notícias precisarão ser reindexados pelos mecanismos de pesquisa.");

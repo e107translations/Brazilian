@@ -40,3 +40,4 @@ define("GSLAN_36", "Você pode digitar links individuais manualmente clicando em
 define("GSLAN_37", "Uma vez que você tenha algumas entradas, vá para [URL] e digite o seguinte endereço URL -> <b>".SITEURL."gsitemap.php</b> - se essa url não parece certa para você, por favor, verifique se a url do site está correta em admin -> preferências");
 define("GSLAN_38", "Para mais informações sobre o protocolo de Mapa de Sites do Google, vá para a [URL].");
 define("GSLAN_39", "Sem links no mapa do site - importar links do site?");
+define("GSLAN_50", "Visível publicamente");

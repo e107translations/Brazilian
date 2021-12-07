@@ -16,13 +16,11 @@
 |        GNU General Public License (http://gnu.org).
 +---------------------------------------------------------------+
 */
-
 define("CUSLAN_1", "Visão geral");
 define("CUSLAN_2", "Título da página");
 define("CUSLAN_3", "Itens por página");
 define("CUSLAN_4", "Campos personalizados");
 define("CUSLAN_5", "(Novo livro)");
-
 define("CUSLAN_9", "Texto");
 define("CUSLAN_11", "Meta descrição");
 define("CUSLAN_12", "Criar Página/Menu");
@@ -31,7 +29,6 @@ define("CUSLAN_30", "Tempo para expirar o cookie <b>(em segundos)</b>");
 define("CUSLAN_31", "Criar Menu");
 define("CUSLAN_48", "Listagem de Páginas");
 define("CUSLAN_49", "Listagem de Menus");
-
 define("CUSLAN_50", "Lista de livros/capítulos");
 define("CUSLAN_51", "Adicionar livro/capítulo");
 define("CUSLAN_52", "Livro");
@@ -61,4 +58,6 @@ define("CUSLAN_76", "Menu com caminho #");
 define("CUSLAN_77", "excluído");
 define("CUSLAN_78", "Não consegui excluir menu com caminho");
 define("CUSLAN_79", "Você deve digitar um nome de menu ou um título de página.");
-define("CUSLAN_1", "Visão geral");
+define("CUSLAN_80", "Legenda");
+define("CUSLAN_81", "Meta imagem");
+define("CUSLAN_82", "Opcional. Usado pelas redes sociais ao compartilhar esta página.");

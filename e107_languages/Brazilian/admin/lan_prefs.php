@@ -97,7 +97,6 @@ define("PRFLAN_95", "Exibição de informações de plugin:");
 define("PRFLAN_96", "Indicará as informações em todas as páginas do admin para cada plugin suportando este tipo de função");
 define("PRFLAN_97", "Menu original de 'Plugins info':");
 define("PRFLAN_98", "Se não selecionado, cada plugin indicará sua própria informação em um menu individual. Se selecionado, toda a informação será indicada em um menu.");
-define("PRFLAN_101", "Texto Traduzido");
 define("PRFLAN_102", "Substituir os links");
 define("PRFLAN_103", "Ativando esta opção, os links postados serão substituídos por texto inserido na caixa de texto abaixo, os links muito longos serão divididos para evitar problemas no layout do site");
 define("PRFLAN_104", "Links substituídos por texto");
@@ -270,3 +269,7 @@ define("PRFLAN_279", "Verifique se o url existe! É melhor usar um url absoluto.
 define("PRFLAN_280", "URL para os termos e condições do site");
 define("PRFLAN_281", "Os 2 links acima são usados em várias páginas deste site (por exemplo, inscrição e formulário/menu de contato).\n Crie 2 páginas (se ainda não tiver feito) que contenham sua 'Política de Privacidade' e os 'Termos e condições' do site. \n Existem vários sites que podem gerar esses textos para você. \n Copie os urls desses sites nos campos acima (por exemplo, /pagina/privacy-policy ou /pagina/terms-and-conditions).\n Apenas certifique-se que as páginas e urls existem e estão funcionando!");
 define("PRFLAN_282", "Método de salvar sessão");
+define("PRFLAN_283", "Exibir rótulos da barra de navegação");
+define("PRFLAN_284", "Recolher a barra lateral de navegação por padrão");
+define("PRFLAN_285", "Mostrar dicas de ajuda");
+define("PRFLAN_286", "Filtros de conteúdo");
