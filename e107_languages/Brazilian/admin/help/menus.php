@@ -40,4 +40,4 @@ Se os menus não estão sendo atualizados adequadamente, aperte o botão refresh
 ";
 
 $ns -> tablerender("Menus", $text);
-?>
+

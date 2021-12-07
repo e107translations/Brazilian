@@ -26,4 +26,3 @@ define("NWFLAN_19", "Notícia externa");
 define("NWFLAN_20", "Não foi indicada URL.");
 
 
-?>

@@ -10,4 +10,4 @@ if (!defined('e107_INIT')) { exit; }
 $caption = "Fazendo Cache";
 $text = "Se você ligou a opção de fazer cache, isto irá aumentar a velocidade do seu site e minimizar a quantidade de chamadas ao banco de dados mysql.<br /><br /><b>IMPORTANTE! Se você estiver fazendo seu próprio tema, desligue o cache para fazer as mudanças que você necessitar, senão elas não funcionarão.</b>";
 $ns -> tablerender($caption, $text);
-?>
+

@@ -29,4 +29,3 @@ define("FORLAN_26", "Resposta apagada");
 define("FORLAN_27", "movido");
 
 
-?>

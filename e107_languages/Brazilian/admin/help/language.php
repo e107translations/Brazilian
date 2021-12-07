@@ -9,5 +9,5 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Configurando um novo idioma irá permitir a você ter uma versão do seu conteúdo naquele idioma no seu site..";
 $ns -> tablerender("Idioma - Ajuda", $text);
-?>
+
 

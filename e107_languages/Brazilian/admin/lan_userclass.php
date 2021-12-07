@@ -29,4 +29,3 @@ define("UCSLAN_10", "Atenciosamente,");
 define("UCSLAN_12", "Privilégio para membros apenas");
 
 
-?>

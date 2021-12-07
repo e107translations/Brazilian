@@ -36,4 +36,3 @@ define("CUSLAN_29", "e107_plugins/custompages/");
 define("CUSLAN_30", "Se requerido edite as propriedades dos links aqui ");
 
 
-?>

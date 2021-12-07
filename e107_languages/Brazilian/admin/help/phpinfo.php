@@ -9,5 +9,5 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = " Esta página mostra todas as configurações PHP do servidor. ";
 $ns -> tablerender("PHP Info - Ajuda", $text);
-?>
+
 

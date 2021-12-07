@@ -91,4 +91,3 @@ define("ARLAN_100", "Clique aqui para preencher campos de autor");
 define("ARLAN_101", "por");
 
 
-?>

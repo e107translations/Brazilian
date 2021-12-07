@@ -17,4 +17,4 @@ Digitando o endereço IP 123.123.123.* irá banir qualquer usuário que esteja n
 Digitando o endereço de email foo@bar.com irá parar o usuário um que estiver usando este email na lista de membros do seu site.<br />
 Digitando *@bar.com irá parar qualquer um que use este domínio no endereço de email nos membros registrados no seu site.";
 $ns -> tablerender($caption, $text);
-?>
+

@@ -36,4 +36,3 @@ define("LAN_VALIDATE_204", "Tamanho do arquivo é menor que o mínimo permitido"
 define("LAN_VALIDATE_FAILMSG", "[x] erro de validação: [y] [z].");
 
 
-?>

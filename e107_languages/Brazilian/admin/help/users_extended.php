@@ -9,5 +9,5 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = " Os campos estendidos de usuários permitem a você adicionar tipos de dados que os usuários irão digitar em seu perfil.";
 $ns -> tablerender("Campos Estendidos de Usuário - Ajuda", $text);
-?>
+
 

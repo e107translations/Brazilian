@@ -43,4 +43,4 @@ define("CACLAN_27", "Esvaziar o Cache do Browser");
 define("CACLAN_28", "Cache CSS/JS");
 define("CACLAN_29", "Consolidar e armazenar em cache arquivos javascript e cascading stylesheet arquivos.");
 define("CACLAN_30", "Cache CSS/JS vazio");
-define("CACLAN_28", "Cache CSS/JS");
+

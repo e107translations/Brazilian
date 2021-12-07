@@ -9,5 +9,5 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "O gerenciador de temas permite a você configurar o tema público do seu site e o tema da área de admin.";
 $ns -> tablerender("Gerenciador de Tema - Ajuda", $text);
-?>
+
 

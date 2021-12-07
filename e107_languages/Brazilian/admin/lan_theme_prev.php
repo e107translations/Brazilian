@@ -21,4 +21,3 @@ define("TPVLAN_15", "Salvar");
 define("TPVLAN_14", "Se um tema não aparecer corretamente, certifique-se de que ele foi enviado com as permissẽes certas para o servidor. Permissão de leitura.");
 
 
-?>

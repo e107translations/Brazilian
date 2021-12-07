@@ -31,4 +31,3 @@ define("LAN_NP_URLCURRENT", "Visualizada");
 define("NP_CAPTION", "Página [x] de [y]");
 
 
-?>

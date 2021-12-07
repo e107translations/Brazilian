@@ -21,4 +21,3 @@ define("LAN_SITEDOWN_00", "está temporariamente fechado");
 define("LAN_SITEDOWN_01", "Nós estamos temporariamente fechados para manutenção essencial do site. Isto não irá demorar muito - favor verificar em breve, desculpe-nos pela inconveniência.");
 
 
-?>

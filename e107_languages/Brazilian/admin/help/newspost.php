@@ -21,4 +21,4 @@ Ative isto para mostrar apenas os títulos das notícias na primeira página, el
 Se você configurar uma data para começo e/ou fim para o item de notícia, isso irá fazer com que o item fique disponível apenas entre essas datas.
 ";
 $ns -> tablerender($caption, $text);
-?>
+

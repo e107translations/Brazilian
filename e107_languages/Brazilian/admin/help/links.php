@@ -12,4 +12,4 @@ $text = "Digite todos os links de seu site aqui. Para links do menu principal (o
 <br />
 O gerador de submenus é APENAS útil para os menus do e107 em DHTML (TreeMenu, UltraTreeMenu, eDynamicMenu, ypSlideMenu...)";
 $ns -> tablerender("Links", $text);
-?>
+

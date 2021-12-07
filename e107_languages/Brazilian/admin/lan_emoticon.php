@@ -46,4 +46,3 @@ define("EMOLAN_37", "Emote não setado");
 define("EMOLAN_38", "Valor vazio para emote");
 
 
-?>

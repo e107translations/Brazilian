@@ -75,4 +75,3 @@ define("BANNER_MENU_L18", "Atualizar Preferências de Menu");
 define("BANNER_MENU_L19", "Número de banners a mostrar:<br /><u>isto serve apenas quando múltiplas campanhas forem selecionadas</u>");
 
 
-?>

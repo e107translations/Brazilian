@@ -24,4 +24,3 @@ define("USFLAN_6", "ID do Usuário");
 define("USFLAN_7", "Informação do Usuário");
 
 
-?>

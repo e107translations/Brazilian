@@ -10,4 +10,4 @@ if (!defined('e107_INIT')) { exit; }
 $text = "Quaisquer meta tags que você digitar aqui serão enviadas para a tela na posição certa.  Fazendo com que os sistemas de busca da web localizem mais facilmente as páginas.";
 
 $ns -> tablerender("Meta Tags", $text);
-?>
+

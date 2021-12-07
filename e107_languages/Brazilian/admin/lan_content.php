@@ -41,4 +41,3 @@ define("CNTLAN_29", "Sim");
 define("CNTLAN_30", "Não");
 
 
-?>

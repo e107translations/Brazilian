@@ -11,5 +11,5 @@ $text = "Se a versão do MySql do seu server suporta isto, você deve alterar pa
 <b>Caracteres</b> Este é o número de caracteres por texto que será mostrado no resultado da busca.<br /><br />
 <b>Resultados</b> Este é o número de resultados que será mostrado por página.";
 $ns -> tablerender("Ajuda da Busca", $text);
-?>
+
 

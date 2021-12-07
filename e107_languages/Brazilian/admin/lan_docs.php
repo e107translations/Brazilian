@@ -23,4 +23,3 @@ define("LAN_DOCS_ANSWER", "Resposta");
 define("LAN_DOCS_QUESTION", "Pergunta");
 
 
-?>

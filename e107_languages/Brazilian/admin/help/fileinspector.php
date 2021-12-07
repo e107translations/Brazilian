@@ -20,5 +20,5 @@ $ns -> tablerender("Arquivo-Chave", $text);
 $text = "O inspetor de arquivos escaneou e analisou os arquivos no servidor do seu site.  Quando o inspetor encontra um arquivo de sistema do e107 ele checa a consistência do mesmo, para ter certeza que ele não está corrompido.";
 
 $ns -> tablerender("Ajuda do Inspetor de Arquivos", $text);
-?>
+
 

@@ -33,4 +33,3 @@ define("NT_LAN_ND_1", "Item de notícia apagado");
 define("NT_LAN_ND_2", "ID da notícia apagada");
 
 
-?>

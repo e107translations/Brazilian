@@ -19,4 +19,3 @@ define("LOGLAN_12", "Atualizar os detalhes de Log");
 define("LOGLAN_13", "Definições de Log/Contadores");
 
 
-?>

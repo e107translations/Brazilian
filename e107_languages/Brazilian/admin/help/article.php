@@ -12,4 +12,4 @@ $text = "Nesta página você poderá adicionar artigos em página única ou em m
 <br /><br />
 Se seu artigo contém tags/códigos HTML que você quer preservar, coloque-os entre os comandos  [html] [/html]. Por exemplo, se você digitar o texto '&lt;table>&lt;tr>&lt;td>Olá &lt;/td>&lt;/tr>&lt;/table>' no seu artigo, uma tabela será mostrada contendo a palavra Olá. Se você digitar '[html]&lt;table>&lt;tr>&lt;td>Olá &lt;/td>&lt;/tr>&lt;/table>[/html]' o código que você digitou será mostrado e não a tabela que o código gera.";
 $ns -> tablerender("Ajuda do Artigo", $text);
-?>
+

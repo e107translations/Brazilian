@@ -15,4 +15,4 @@ O número de comentários padrão é 5, o número de caracteres padrão é 10000
 
 ";
 $ns -> tablerender("Configuração de Menus", $text);
-?>
+

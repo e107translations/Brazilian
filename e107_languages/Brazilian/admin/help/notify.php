@@ -13,5 +13,5 @@ Você pode também, como outro exemplo, configurar 'Notícia postada por admin' 
 Se você preferir que as notificações de e-mail sejam enviadas a um e-mail alternativo, selecione a opção 'Email' e digite o endereço de e-mail no campo.";
 
 $ns -> tablerender("Notificação - Ajuda", $text);
-?>
+
 

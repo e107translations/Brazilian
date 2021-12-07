@@ -79,4 +79,3 @@ define("REVLAN_72", "Sim");
 define("REVLAN_73", "Não");
 
 
-?>

@@ -24,4 +24,3 @@ define("US_LAN_5", "Usuário(s) encontrados");
 define("US_LAN_6", "Procurar");
 
 
-?>

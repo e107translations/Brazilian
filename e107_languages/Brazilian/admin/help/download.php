@@ -11,4 +11,4 @@ $text = "Favor enviar (upload) seus arquivos para a pasta ".e_FILE."downloads, i
 <br /><br />
 Para enviar um download, primeiro crie uma categoria pai, depois crie uma categoria abaixo da primeira criada, depois disso, você poderá disponibilizar o download.";
 $ns -> tablerender("Ajuda em Downloads", $text);
-?>
+

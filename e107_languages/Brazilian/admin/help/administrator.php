@@ -10,4 +10,4 @@ if (!defined('e107_INIT')) { exit; }
 $caption = "Ajuda para o Administrador do site";
 $text = "Use esta página para adicionar ou deletar administradores.  O administrador irá apenas ter permissão de acesso se as funções estiverem marcadas.";
 $ns -> tablerender($caption, $text);
-?>
+

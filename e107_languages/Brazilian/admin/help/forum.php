@@ -27,4 +27,4 @@ Clique nos nomes dos administradores listados para dar a eles status de moderado
 Configure os níveis (ranks/classificação) dos usuários aqui. Se os campos de imagens foram preenchidos, as imagens serão usadas, para usar um nome no ranking, digite um nome correspondente à imagem no campo em branco..<br />O limite é o número de pontos que o usuário precisa ganhar para mudar de nível.";
 $ns -> tablerender($caption, $text);
 unset($text);
-?>
+

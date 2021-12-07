@@ -9,5 +9,5 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Esta coleção de ferramentas permite a você gerenciar seu banco de dados.";
 $ns -> tablerender("Ferramentas de Banco de Dados", $text);
-?>
+
 

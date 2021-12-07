@@ -9,4 +9,4 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Atualize sua senha aqui.";
 $ns -> tablerender("Configurações", $text);
-?>
+

@@ -32,4 +32,3 @@ define("POLLAN_25", "Sim");
 define("POLLAN_26", "Não");
 
 
-?>

@@ -11,4 +11,4 @@ $text = "Você configura pesquisas nesta página, apenas digite um título e as 
 Para ver a pesquisa, vá na página de menus e veja se o poll_menu está ativado.";
 
 $ns -> tablerender("Pesquisas", $text);
-?>
+

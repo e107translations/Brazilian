@@ -9,4 +9,4 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Você pode separar os itens de notícias em categorias diferentes, e permitir aos visitantes apenas mostrar aquilo que lhes interessa nessas categorias. <br /><br />Envie suas imagens para a pasta ".e_THEME."-yourtheme-/images/ ou themes/shared/newsicons/.";
 $ns -> tablerender("Categorias de Notícias", $text);
-?>
+

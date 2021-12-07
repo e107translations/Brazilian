@@ -140,4 +140,3 @@ define("FORLAN_130", "Clique Aqui");
 define("FORLAN_131", "para definir o tamanho máximo de arquivo, tipos permitidos etc.");
 
 
-?>

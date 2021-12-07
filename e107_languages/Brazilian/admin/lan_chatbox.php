@@ -42,4 +42,3 @@ define("CHBLAN_30", "Altura da camada");
 define("CHBLAN_31", "Mostrar emoticons");
 
 
-?>

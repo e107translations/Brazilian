@@ -9,4 +9,4 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Esta página permite configurar uma mensagem que será mostrada no topo da página inicial toda vez que for acessada. Você pode configurar uma mensagem diferente para convidados, membros registrados e logados e administradores.";
 $ns -> tablerender("Mensagem de boas-vindas", $text);
-?>
+

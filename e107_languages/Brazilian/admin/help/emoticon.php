@@ -11,4 +11,4 @@ $text = "Marque a caixa para ter emoticons em forma de texto convertidos para em
 Digite qualquer atualização que você quiser nas caixas de texto, e clique em salvar para atualizar as opções. Use o formulário no rodapé da página para adicionar novos emoticons.";
 
 $ns -> tablerender("Emoticons", $text);
-?>
+

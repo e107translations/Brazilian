@@ -48,4 +48,3 @@ define("LAN_MENGEN_41", "Links");
 define("LAN_MENGEN_42", "Para cada categoria de links, um link novo será mostrado num submenu para acessar essa categoria diretamente");
 define("LAN_MENGEN_43", "Todos os links mostrados no submenu Links serão apagados.");
 
-?>

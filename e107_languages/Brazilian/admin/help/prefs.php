@@ -9,5 +9,5 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "As preferências permitem a você especificar todas as configurações importantes do seu site, desde o nome e descrição do site até a proteção de flood e filtros de censura a palavras profanas.";
 $ns -> tablerender("Preferências - Ajuda", $text);
-?>
+
 
