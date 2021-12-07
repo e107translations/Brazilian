@@ -100,10 +100,10 @@ define("PRFLAN_98", "Se não selecionado, cada plugin indicará sua própria inf
 define("PRFLAN_102", "Substituir os links");
 define("PRFLAN_103", "Ativando esta opção, os links postados serão substituídos por texto inserido na caixa de texto abaixo, os links muito longos serão divididos para evitar problemas no layout do site");
 define("PRFLAN_104", "Links substituídos por texto");
-define("PRFLAN_105", "O texto para substituir os links com imagem pode ser usado usando tag da imagem <img> com a url da imagem a ser exibida");
+define("PRFLAN_105", "O texto para substituir os links com imagem pode ser usado usando tag da imagem &lt;img&gt; com a url da imagem a ser exibida");
 define("PRFLAN_106", "Preferências do sistema salvas no banco de dados.");
 define("PRFLAN_107", "Links de e-mail substituídos por texto");
-define("PRFLAN_108", "O texto para substituir os links de e-mail com imagem pode ser usado usando tag da imagem <img> com o caminho completo para a imagem");
+define("PRFLAN_108", "O texto para substituir os links de e-mail com imagem pode ser usado usando tag da imagem &lt;img&gt; com o caminho completo para a imagem");
 define("PRFLAN_109", "Texto principal com palavras muito longas");
 define("PRFLAN_110", "As palavras maiores do que o comprimento incorporado, serão envolvidas por muito mais tempo em uma linha nova");
 define("PRFLAN_111", "Menu de texto com palavras muito longas");
