@@ -43,4 +43,3 @@ define("FSLAN_23", "Estatísticas do Fórum");
 define("FSLAN_24", "Média de postagens por dia");
 
 
-?>

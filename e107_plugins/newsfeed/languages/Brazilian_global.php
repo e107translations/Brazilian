@@ -16,4 +16,3 @@ define("LAN_PLUGIN_NEWSFEEDS_NAME", "Alimentadores de Notícias (Newsfeeds)");
 define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "Este plugin vai alimentar seu site com notícias RSS de outros sites e mostrar de acordo com suas preferências.");
 
 
-?>

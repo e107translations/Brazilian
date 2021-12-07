@@ -83,4 +83,3 @@ define("RSS_LAN_2", "@nospam.com");
 define("RSS_LAN_3", "semautor@nospam.com");
 
 
-?>

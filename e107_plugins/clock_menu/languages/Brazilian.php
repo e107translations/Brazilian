@@ -42,4 +42,3 @@ define("CLOCK_MENU_L23", "de Dezembro de");
 define("CLOCK_MENU_L24", "");
 
 
-?>

@@ -27,4 +27,3 @@ define("TREE_L8", "Classe CSS a usar para links já abertos");
 define("TREE_L9", "Usar classe de espaçamento entre links principais");
 
 
-?>

@@ -203,4 +203,3 @@ define("FORLAN_182", "também recalcular as respostas para todos os tópicos no 
 define("FORLAN_183", "(esta função não é permitida quando selecionar 'todos os fóruns' dado o número de perguntas que irá gerar)");
 
 
-?>

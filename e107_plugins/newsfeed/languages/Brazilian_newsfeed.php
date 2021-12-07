@@ -21,4 +21,3 @@ define("NFLAN_39", "Detalhes");
 define("NFLAN_48", "Não há como salvar dados no banco de dados.");
 
 
-?>

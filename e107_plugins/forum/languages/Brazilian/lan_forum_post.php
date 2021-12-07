@@ -111,4 +111,3 @@ define("LAN_FORUM_1", "Uploads não permitidos: ".e_FILE."diretório público n�
 define("LAN_FORUM_2", "Postagem duplicada");
 
 
-?>

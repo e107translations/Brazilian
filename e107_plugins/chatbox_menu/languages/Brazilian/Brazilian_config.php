@@ -56,4 +56,3 @@ define("CHBLAN_37", "Chat Normal");
 define("CHBLAN_38", "Usar código javascript para atualizar postagens dinamicamente (AJAX)");
 
 
-?>

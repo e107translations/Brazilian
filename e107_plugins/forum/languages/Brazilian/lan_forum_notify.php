@@ -47,4 +47,3 @@ define("NT_LAN_FM_8", "Tópico movido");
 define("NT_LAN_FM_9", "Tópico movido por");
 
 
-?>

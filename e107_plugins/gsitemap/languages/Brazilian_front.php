@@ -15,4 +15,3 @@
 define("GSLAN_Name", "Mapa do Site");
 
 
-?>

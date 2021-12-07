@@ -44,4 +44,3 @@ define("FBLAN_25", "Template");
 define("FBLAN_26", "você pode usar um template diferente para cada mensagem, adicione templates na pasta e107_plugins/featurebox/templates/");
 
 
-?>

@@ -59,4 +59,3 @@ define("GSLAN_39", "Não há links no mapa do site - importar links do site?");
 define("GSLAN_40", "Entradas no Mapa do Site do Google");
 
 
-?>

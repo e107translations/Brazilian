@@ -29,6 +29,5 @@ define("LAN_PLUGIN_PM_READ", "Leitura");
 define("LAN_PLUGIN_PM_DEL", "Excluir PM");
 define("LAN_PLUGIN_PM_ATTACHMENT", "Anexo");
 define("LAN_PLUGIN_PM_SIZE", "Tamanho");
-define("LAN_PLUGIN_PM_INBOX", "Caixa de entrada");
 
-?>
+

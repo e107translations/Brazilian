@@ -67,4 +67,3 @@ define("NFLAN_48", "Impossível salvar dados raw no banco de dados.");
 define("NFLAN_49", "Impossível interpretar dados rss - usa sintaxes fora do padrão");
 
 
-?>

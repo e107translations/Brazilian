@@ -90,4 +90,3 @@ define("LAN_dl_77", "Downloads");
 define("LAN_dl_78", "Este download foi desativado ou descontinuado. Favor verificar nos --LINK--downloads</a> para a versão mais recente.");
 
 
-?>

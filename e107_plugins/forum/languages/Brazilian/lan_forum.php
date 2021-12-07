@@ -107,4 +107,3 @@ define("FORLAN_443", "[usuário apagado]");
 define("FORLAN_444", "sub-fóruns");
 
 
-?>

@@ -78,4 +78,3 @@ define("ADLAN_PM_81", "Número máximo de MPs a enviar imediatamente");
 define("ADLAN_PM_82", "Se enviar mais que isso, elas são adicionadas a uma fila e enviadas usando uma tarefa cron");
 
 
-?>

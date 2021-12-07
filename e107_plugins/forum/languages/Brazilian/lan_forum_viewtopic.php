@@ -88,4 +88,3 @@ define("FORLAN_104", "Tópico não encontrado");
 define("FORLAN_HIDDEN", "OCULTAR - LOGIN E RESPONDER PARA REVELAR");
 
 
-?>

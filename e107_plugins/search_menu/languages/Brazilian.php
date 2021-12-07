@@ -19,4 +19,3 @@
 define("LAN_180", "Buscar");
 
 
-?>

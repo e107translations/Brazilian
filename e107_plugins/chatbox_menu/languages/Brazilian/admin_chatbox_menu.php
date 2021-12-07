@@ -32,5 +32,4 @@ define("CHBLAN_37", "Chat Normal");
 define("CHBLAN_38", "Use código javascript para atualizar as postagens dinamicamente (AJAX)");
 
 
-?>define("CHBLAN_42", "Mostrar a quantidade de posts no perfil de usuário");
 define("CHBLAN_42", "Mostrar a quantidade de posts no perfil de usuário");

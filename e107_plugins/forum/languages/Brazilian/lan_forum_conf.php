@@ -53,4 +53,3 @@ define("FORLAN_31", "Renomear para:");
 define("FORLAN_32", "Opções de renomear tópicos:");
 
 
-?>

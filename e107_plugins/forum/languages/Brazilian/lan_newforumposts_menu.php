@@ -31,4 +31,3 @@ define("NFP_12", "'Idade' máxima (tempo de existência) para postagens serem mo
 define("NFP_13", "Usar zero em um site mais tranquilo; configurar o valor em dias irá reduzir o tempo de busca no banco de dados em um site muito ocupado");
 
 
-?>

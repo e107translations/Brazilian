@@ -33,4 +33,3 @@ define("TRACKBACK_L14", "Apagar");
 define("TRACKBACK_L15", "Trackbacks apagados.");
 
 
-?>
