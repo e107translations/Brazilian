@@ -19,3 +19,4 @@
 define("CB_SCH_LAN_1", "Área de Chat");
 
 
+?>

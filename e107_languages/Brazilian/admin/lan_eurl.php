@@ -95,4 +95,4 @@ define("LAN_EURL_REBUILD", "Reconstruir");
 define("LAN_EURL_REGULAR_EXPRESSION", "Expressão regular");
 define("LAN_EURL_KEY", "Chave");
 define("LAN_EURL_TABLE", "Tabela");
-
+define("LAN_EURL_SURL_UPD", "SEF URLs foram atualizados.");

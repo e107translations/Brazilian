@@ -425,3 +425,5 @@ define("LAN_X_CHARS_REMAINING", "[x] caracteres restantes");
 define("LAN_UI_BATCH_NOW", "Data/hora atual");
 define("LAN_RELATIONSHIP", "Relacionado a");
 define("LAN_RELATIONSHIP_HELP", "Atributo 'rel' opcional. Separados por vírgulas.");
+define("LAN_NO_SCRIPT_ACCESS", "Você não tem permissão para usar tags [script].");
+define("LAN_NO_SCRIPT_ACCESS_ASK", "Se você acredita que este é um erro, favor perguntar ao administrador para garantir a você acesso a scripts via [b]Preferrências > Filtros de Conteúdo[/b]");

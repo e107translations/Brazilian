@@ -16,3 +16,4 @@ define("LAN_PLUGIN_GSITEMAP_NAME", "Mapa do Site do Google");
 define("LAN_PLUGIN_GSITEMAP_DESCRIPTION", "Gera um Mapa do Site do Google");
 
 
+?>

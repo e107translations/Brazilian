@@ -47,4 +47,4 @@ define("NS_LAN_3", "IP Banido por múltiplas tentativas de login");
 define("NN_LAN_6", "Notificação de notícias desencadeada");
 define("NM_LAN_3", "Endereço de e-mail =>");
 define("LAN_NOTIFY_01", "Eventos");
-
+define("NA_LAN_1", "Administrador atualiza sua senha");

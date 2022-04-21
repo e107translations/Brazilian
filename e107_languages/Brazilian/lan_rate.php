@@ -35,4 +35,4 @@ define("RATELAN_8", "Não gosto");
 define("RATELAN_9", "Você já votou");
 define("RATELAN_10", "Não existe nenhuma ID de item na classificação");
 define("RATELAN_11", "Classificação falhada");
-
+define("RATELAN_7", "Como");

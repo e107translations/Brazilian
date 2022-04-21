@@ -27,3 +27,4 @@ define("NT_LAN_CB_5", "Mensagem");
 define("NT_LAN_CB_6", "Mensagem do chat postada");
 
 
+?>

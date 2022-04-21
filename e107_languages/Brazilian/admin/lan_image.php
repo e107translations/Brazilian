@@ -193,3 +193,4 @@ define("IMALAN_186", "Insira algum texto para filtrar os resultados");
 define("IMALAN_187", "Converter para webp durante a importação");
 define("IMALAN_188", "Converter para webp durante a renderização");
 define("IMALAN_189", "Arquivos JPEG, PNG e GIF serão convertidos automaticamente para o formato webp. (ícones excluídos)");
+define("IMALAN_190", "Importação desse tipo de arquivo não está permitida.");

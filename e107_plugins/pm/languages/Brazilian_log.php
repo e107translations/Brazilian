@@ -24,3 +24,4 @@ define("LAN_AL_PM_ADM_09", "MP: Erro ao atualizar dados de limite");
 define("LAN_AL_PM_ADM_10", "MP: Erro ao deletar dados de limite");
 
 
+?>

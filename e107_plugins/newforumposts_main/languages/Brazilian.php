@@ -49,3 +49,4 @@ define("NFPM_L23", "Anúncio");
 define("NFPM_L24", "Tópico Fechado");
 
 
+?>

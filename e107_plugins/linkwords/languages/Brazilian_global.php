@@ -16,3 +16,4 @@ define("LAN_PLUGIN_LINKWORDS_NAME", "Palavras-Link (Linkwords)");
 define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "Este plugin irá linkar palavras específicas com um link definido e/ou dica de tela");
 
 
+?>

@@ -16,3 +16,4 @@ define("LAN_PLUGIN_POLL_NAME", "Pesquisa");
 define("LAN_PLUGIN_POLL_DESCRIPTION", "O plugin de pesquisa permite a você definir pesquisas em um menu ou postagem no fórum.");
 
 
+?>

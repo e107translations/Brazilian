@@ -20,3 +20,4 @@ define("LAN_NEWSLATEST_MENU_TITLE", "Últimas Notícias");
 
 define("LAN_NEWSARCHIVE_MENU_TITLE", "Arquivo de notícias");
 
+?>

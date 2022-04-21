@@ -14,12 +14,12 @@
 |	(claytomv@yahoo.com), 2004
 +---------------------------------------------------------------+
 */
-define("CHATBOX_L1", "Impossï¿½vel aceitar postagem com este nome de usuï¿½rio. Se ï¿½ seu, favor registrar ou logar.");
+define("CHATBOX_L1", "Impossível aceitar postagem com este nome de usuário. Se é seu, favor registrar ou logar.");
 define("CHATBOX_L2", "Janela de chat");
-define("CHATBOX_L3", "Vocï¿½ precisa entrar seu nome e senha para postar comentï¿½rios neste site - favor fazï¿½-lo. Se vocï¿½ ainda nï¿½o ï¿½ registrado, <a href='".e_BASE."signup.php'>clique aqui</a> para assinar");
+define("CHATBOX_L3", "Você precisa entrar seu nome e senha para postar comentários neste site - favor fazê-lo. Se você ainda não é registrado, <a href='".e_BASE."signup.php'>clique aqui</a> para assinar");
 define("CHATBOX_L4", "Enviar");
 define("CHATBOX_L5", "Limpar");
-define("CHATBOX_L6", "[bloqueado pela administraï¿½ï¿½o]");
+define("CHATBOX_L6", "[bloqueado pela administração]");
 define("CHATBOX_L7", "Desbloquear");
 define("CHATBOX_L8", "Info");
 define("CHATBOX_L9", "Bloquear");
@@ -29,7 +29,7 @@ define("CHATBOX_L12", "Ver todas as postagens");
 define("CHATBOX_L13", "moderar janela de chat");
 define("CHATBOX_L14", "Smilies");
 define("CHATBOX_L15", "Postagem muito longa ou vazia");
-define("CHATBOX_L16", "Anï¿½nimo");
+define("CHATBOX_L16", "Anônimo");
 define("CHATBOX_L17", "Duplicar postagem");
 
 

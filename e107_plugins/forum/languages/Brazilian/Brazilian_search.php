@@ -17,3 +17,4 @@ define("FOR_SCH_LAN_4", "Postagem completa");
 define("FOR_SCH_LAN_5", "Como parte da discussão");
 
 
+?>

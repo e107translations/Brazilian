@@ -89,3 +89,4 @@ define("FORLAN_21", "Tópicos");
 define("FORLAN_22", "Última Postagem");
 
 
+?>

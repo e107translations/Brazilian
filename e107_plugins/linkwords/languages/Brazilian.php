@@ -63,3 +63,4 @@ define("LWLANINS_3", "Configurar Palavras-Link");
 define("LWLANINS_4", "Para configurar, por favor clique no link na seção plugins da página principal da administração");
 
 
+?>

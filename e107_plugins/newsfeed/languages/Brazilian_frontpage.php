@@ -20,3 +20,4 @@ define("NWSF_FP_1", "Notícias Externas");
 define("NWSF_FP_2", "página principal");
 
 
+?>

@@ -77,3 +77,4 @@ define("ADLAN_PM_57", "Este plugin tem função completa de sistema de Mensagens
 define("ADLAN_PM_58", "Mensagem Privada");
 
 
+?>
